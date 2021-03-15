@@ -1,0 +1,40 @@
+{
+  "name": {
+    "CN": {
+      "title": "梦魇按钮",
+      "fullName": ""
+    },
+    "EN": {
+      "title": "Ciyana Button",
+      "fullName": ""
+    }
+  },
+  "header": {
+    "icon": "💤",
+    "youtube": "",
+    "twitter": "https://twitter.com/_Ciyana",
+    "bilibili": "https://space.bilibili.com/1926156228"
+  },
+  "footer": {
+    "author": [
+      {
+        "name": "冰柠配绿茶",
+        "url": "https://www.frozenlemontee.top/"
+      }
+    ],
+    "info": [
+      ""
+    ],
+    "githubUrl": "https://github.com/FrozenLemonTee"
+  },
+  "console": {
+    "text": "",
+    "size": "",
+    "color": "",
+    "img": "",
+    "imgWidth": "",
+    "imgHeight": ""
+  },
+  "mediaSession": "",
+  "CDN": ""
+}

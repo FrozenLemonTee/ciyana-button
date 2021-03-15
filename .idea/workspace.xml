@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1pjGwZrKSXbARMuIPDI8pL77NPF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/voices" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public" />
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\img" />
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices" />
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="" />
+      <created>1615689325033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615689325033</updated>
+      <workItem from="1615689329181" duration="2380000" />
+      <workItem from="1615691846683" duration="59000" />
+      <workItem from="1615691917390" duration="72000" />
+      <workItem from="1615692001341" duration="118000" />
+      <workItem from="1615692130755" duration="161000" />
+      <workItem from="1615692315371" duration="1297000" />
+      <workItem from="1615693628976" duration="963000" />
+      <workItem from="1615696763856" duration="617000" />
+      <workItem from="1615697546062" duration="222000" />
+      <workItem from="1615698083965" duration="69000" />
+      <workItem from="1615702976070" duration="94000" />
+      <workItem from="1615703127954" duration="675000" />
+      <workItem from="1615704065173" duration="1445000" />
+      <workItem from="1615707346396" duration="13977000" />
+      <workItem from="1615766950989" duration="4973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="74" key="#ESLint" timestamp="1615692834758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="74" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1615692834758" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615692347241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1615692347241" />
+    <state x="606" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615723233923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="606" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1615723233923" />
+    <state x="726" y="184" key="EditFileWatcherDialog" timestamp="1615698111079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="726" y="184" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1615698111079" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1615708862517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615708862517" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1615767743162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615767743162" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1615767743161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615767743161" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1615767743160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615767743160" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1615767743162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615767743162" />
+  </component>
+</project>
