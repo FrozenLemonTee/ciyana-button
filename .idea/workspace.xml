@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="" />
+    <list default="true" id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/translate/01_voices.json" beforeDir="false" afterPath="$PROJECT_DIR$/setting/translate/01_voices.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +89,7 @@
       <workItem from="1615703127954" duration="675000" />
       <workItem from="1615704065173" duration="1445000" />
       <workItem from="1615707346396" duration="13977000" />
-      <workItem from="1615766950989" duration="4996000" />
+      <workItem from="1615766950989" duration="8992000" />
     </task>
     <servers />
   </component>
@@ -94,10 +97,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="565" y="74" key="#ESLint" timestamp="1615692834758">
+    <state x="565" y="74" key="#ESLint" timestamp="1615782110041">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="565" y="74" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1615692834758" />
+    <state x="565" y="74" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1615782110041" />
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615692347241">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
