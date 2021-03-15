@@ -5,5 +5,26 @@
       "zh-CN": "可爱希",
       "en-US": "cute Ciyana"
     }
+  },
+        {
+    "name": "混沌希",
+    "translate": {
+      "zh-CN": "混沌希",
+      "en-US": "chaotic Ciyana"
+    }
+  },
+          {
+    "name": "清楚希",
+    "translate": {
+      "zh-CN": "清楚希",
+      "en-US": "pure Ciyana"
+    }
+  },
+        {
+    "name": "希音",
+    "translate": {
+      "zh-CN": "希音",
+      "en-US": "Ciyana's voice"
+    }
   }
 ]

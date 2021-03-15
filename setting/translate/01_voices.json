@@ -171,5 +171,125 @@
       "time": "",
       "url": "https://www.bilibili.com/video/BV1qU4y1p7MZ"
     }
+  },
+    {
+    "name": "never gonna give you up",
+    "path": "never gonna give you up.mp3",
+    "date": "2021-03-15",
+    "translate": {
+      "zh-CN": "never gonna give you up",
+      "en-US": "never gonna give you up"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+      {
+    "name": "中 之 人 暴 露",
+    "path": "中 之 人 暴 露.mp3",
+    "date": "2021-03-15",
+    "translate": {
+      "zh-CN": "中 之 人 暴 露",
+      "en-US": "never gonna give you up"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+        {
+    "name": "你喜欢耳朵被prpr吗~",
+    "path": "你喜欢耳朵被prpr吗~.mp3",
+    "date": "2021-03-15",
+    "translate": {
+      "zh-CN": "你喜欢耳朵被prpr吗~",
+      "en-US": "do you like being prpr your ears~"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "双 希 临 门",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV17N411Q7Qz"
+    }
+  },
+          {
+    "name": "初见",
+    "path": "初见.mp3",
+    "date": "2021-03-15",
+    "translate": {
+      "zh-CN": "初见",
+      "en-US": "the first meet"
+    },
+    "category": "清楚希",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+            {
+    "name": "吃掉你的噩梦",
+    "path": "吃掉你的噩梦.mp3",
+    "date": "2021-03-15",
+    "translate": {
+      "zh-CN": "吃掉你的噩梦",
+      "en-US": "eat up your horrible dream"
+    },
+    "category": "清楚希",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+              {
+    "name": "囍 双希 囍",
+    "path": "囍 双希 囍.mp3",
+    "date": "2021-03-15",
+    "translate": {
+      "zh-CN": "囍 双希 囍",
+      "en-US": "hirro❤ciyana"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "双 希 临 门",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV17N411Q7Qz"
+    }
+  },
+                {
+    "name": "忘掉噩梦~",
+    "path": "忘掉噩梦~.mp3",
+    "date": "2021-03-15",
+    "translate": {
+      "zh-CN": "忘掉噩梦~",
+      "en-US": "forget your frightening dream"
+    },
+    "category": "清楚希",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+                  {
+    "name": "这叫疼爱你❤",
+    "path": "这叫疼爱你❤.mp3",
+    "date": "2021-03-15",
+    "translate": {
+      "zh-CN": "这叫疼爱你❤",
+      "en-US": "That's called loving you❤"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "双 希 临 门",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV17N411Q7Qz"
+    }
   }
 ]
