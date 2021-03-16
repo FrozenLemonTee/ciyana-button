@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +49,9 @@
       <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices" />
       <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public" />
       <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\img" />
-      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices" />
     </key>
   </component>
   <component name="RunManager">
@@ -91,7 +92,8 @@
       <workItem from="1615707346396" duration="13977000" />
       <workItem from="1615766950989" duration="11660000" />
       <workItem from="1615793255282" duration="24000" />
-      <workItem from="1615806835918" duration="4397000" />
+      <workItem from="1615806835918" duration="5199000" />
+      <workItem from="1615878653342" duration="265000" />
     </task>
     <servers />
   </component>
