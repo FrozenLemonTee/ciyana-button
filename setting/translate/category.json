@@ -14,6 +14,27 @@
     }
   },
           {
+    "name": "希希日常",
+    "translate": {
+      "zh-CN": "希希日常",
+      "en-US": "Ciyana in daily life"
+    }
+  },
+            {
+    "name": "希希名言",
+    "translate": {
+      "zh-CN": "希希名言",
+      "en-US": "Witticisms"
+    }
+  },
+          {
+    "name": "debu希",
+    "translate": {
+      "zh-CN": "debu希",
+      "en-US": "debu Ciyana"
+    }
+  },
+          {
     "name": "清楚希",
     "translate": {
       "zh-CN": "清楚希",
