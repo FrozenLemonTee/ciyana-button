@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/public/voices/debu希希又是什么.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/voices/你们就贴贴~.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/voices/哈？.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/voices/太过分了.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/voices/我哪里胖了啊？！.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/voices/指 马 为 牛.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/voices/爽耶↗.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/voices/牛牛（？喝水.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/voices/（拍肚皮）.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/setting.json" beforeDir="false" afterPath="$PROJECT_DIR$/setting/setting.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/translate/01_voices.json" beforeDir="false" afterPath="$PROJECT_DIR$/setting/translate/01_voices.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/translate/category.json" beforeDir="false" afterPath="$PROJECT_DIR$/setting/translate/category.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/83d2805cabbf628570ecfe0257a1f4e5.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/83d2805cabbf628570ecfe0257a1f4e5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/ts-loader/624f32bb976efa44a92b2dd709d77279.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/ts-loader/624f32bb976efa44a92b2dd709d77279.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0dcadd3e0f04a894c8cf26a9cef2347f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0dcadd3e0f04a894c8cf26a9cef2347f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5363e50bc799ea87b3dbc1d03a690523.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5363e50bc799ea87b3dbc1d03a690523.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/accbf23ac8fa755dafe890e6f9db3362.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/accbf23ac8fa755dafe890e6f9db3362.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/cb7e9a4311f21a287757fcbf45516e96.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/cb7e9a4311f21a287757fcbf45516e96.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Footer.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +24,9 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1pjGwZrKSXbARMuIPDI8pL77NPF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/voices" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/voices/test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -55,13 +53,14 @@
     <property name="ts.external.directory.path" value="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\test" />
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices" />
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices" />
       <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public" />
-      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\img" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices" />
       <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\img" />
     </key>
   </component>
@@ -105,7 +104,9 @@
       <workItem from="1615793255282" duration="24000" />
       <workItem from="1615806835918" duration="5199000" />
       <workItem from="1615878653342" duration="2127000" />
-      <workItem from="1615892071101" duration="8904000" />
+      <workItem from="1615892071101" duration="10890000" />
+      <workItem from="1615947250177" duration="4446000" />
+      <workItem from="1615979066183" duration="1457000" />
     </task>
     <servers />
   </component>
@@ -133,21 +134,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615793278275" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1615902157773">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1615969939119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615902157773" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1615902157773">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615969939119" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1615969939119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615902157773" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1615902157772">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615969939119" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1615969939119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615902157772" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1615902157773">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615969939119" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1615969939119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615902157773" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615969939119" />
   </component>
 </project>
