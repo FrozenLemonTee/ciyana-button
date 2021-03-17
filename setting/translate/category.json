@@ -1,5 +1,19 @@
 [
-    {
+        {
+    "name": "希音",
+    "translate": {
+      "zh-CN": "希音",
+      "en-US": "Ciyana's voice"
+    }
+  },
+  {
+    "name": "清楚希",
+    "translate": {
+      "zh-CN": "清楚希",
+      "en-US": "pure Ciyana"
+    }
+  },
+  {
     "name": "可爱希",
     "translate": {
       "zh-CN": "可爱希",
@@ -32,20 +46,6 @@
     "translate": {
       "zh-CN": "debu希",
       "en-US": "debu Ciyana"
-    }
-  },
-          {
-    "name": "清楚希",
-    "translate": {
-      "zh-CN": "清楚希",
-      "en-US": "pure Ciyana"
-    }
-  },
-        {
-    "name": "希音",
-    "translate": {
-      "zh-CN": "希音",
-      "en-US": "Ciyana's voice"
     }
   }
 ]
