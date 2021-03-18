@@ -1011,5 +1011,65 @@
       "time": "01:05-01:31",
       "url": "https://www.bilibili.com/video/BV1qT4y1K78y"
     }
+  },
+    {
+    "name": "CHOCOLAT",
+    "path": "CHOCOLAT.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "CHOCOLAT",
+      "en-US": "CHOCOLAT"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】CHOCOLAT",
+      "time": "01:10-01:40",
+      "url": "https://www.bilibili.com/video/BV1r5411n7He"
+    }
+  },
+    {
+    "name": "still alive",
+    "path": "still alive.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "still alive",
+      "en-US": "still alive"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】Still Alive",
+      "time": "00:51-01:39",
+      "url": "https://www.bilibili.com/video/BV1uX4y1T7UH"
+    }
+  },
+    {
+    "name": "血腥爱情故事",
+    "path": "血腥爱情故事.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "血腥爱情故事",
+      "en-US": "血腥爱情故事"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】血腥爱情故事",
+      "time": "01:48-02:35",
+      "url": "https://www.bilibili.com/video/BV1zK411g7JT"
+    }
+  },
+    {
+    "name": "hawk fly tiger run",
+    "path": "hawk fly tiger run.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "hawk fly tiger run",
+      "en-US": "hawk fly tiger run"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】Hawk Fly Tiger Run",
+      "time": "00:50-01:18",
+      "url": "https://www.bilibili.com/video/BV15v411t7H4"
+    }
   }
 ]
