@@ -458,11 +458,11 @@
     }
   },
   {
-    "name": "为什么↗会这个样子↘（哭）",
+    "name": "为什么↗会这个样↗子↘（哭）",
     "path": "为什么↗会这个样子↘（哭）.mp3",
     "date": "2021-03-17",
     "translate": {
-      "zh-CN": "为什么↗会这个样子↘（哭）",
+      "zh-CN": "为什么↗会这个样↗子↘（哭）",
       "en-US": "Why is it like this(crying)"
     },
     "category": "debu希",
@@ -830,6 +830,186 @@
       "title": "【希望之声】霞光",
       "time": "00:28-01:16",
       "url": "https://www.bilibili.com/video/BV1tt4y1r7gr"
+    }
+  },
+  {
+    "name": "倒带",
+    "path": "倒带.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "倒带",
+      "en-US": "倒带"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】倒带",
+      "time": "02:56-03:28",
+      "url": "https://www.bilibili.com/video/BV1XK4y1J7fM"
+    }
+  },
+  {
+    "name": "大鱼",
+    "path": "大鱼.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "大鱼",
+      "en-US": "大鱼"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】大鱼",
+      "time": "01:35-02:05",
+      "url": "https://www.bilibili.com/video/BV1AA411g7s8"
+    }
+  },
+  {
+    "name": "练习个船船",
+    "path": "练习个船船.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "练习个船船",
+      "en-US": "practise? NO!!"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "妈妈削皮，彳亍！希希削皮，不行！",
+      "time": "01:49-01:52",
+      "url": "https://www.bilibili.com/video/BV1Zp4y1h7Gr"
+    }
+  },
+    {
+    "name": "那我不吃了",
+    "path": "那我不吃了.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "那我不吃了",
+      "en-US": "then I won't eat it"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "妈妈削皮，彳亍！希希削皮，不行！",
+      "time": "02:06-02:13",
+      "url": "https://www.bilibili.com/video/BV1Zp4y1h7Gr"
+    }
+  },
+    {
+    "name": "宝 宝 金 水",
+    "path": "宝 宝 金 水.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "宝 宝 金 水",
+      "en-US": "bathing baby"
+    },
+    "category": "可爱希",
+    "mark": {
+      "title": "妈妈削皮，彳亍！希希削皮，不行！",
+      "time": "03:11-03:18",
+      "url": "https://www.bilibili.com/video/BV1Zp4y1h7Gr"
+    }
+  },
+    {
+    "name": "我就是宫崎英高",
+    "path": "我就是宫崎英高.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "我就是宫崎英高",
+      "en-US": "I'am Hidetaka Miyazaki"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "宠物梦魇会梦见宫崎英高吗？",
+      "time": "02:12-02:16",
+      "url": "https://www.bilibili.com/video/BV1t5411P7rE"
+    }
+  },
+    {
+    "name": "我感觉我错过了一个亿",
+    "path": "我感觉我错过了一个亿.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "我感觉我错过了一个亿",
+      "en-US": "I think I missed a billion"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "吃粮香香！为了美少女回坑明日方舟！",
+      "time": "02:17-02:19",
+      "url": "https://www.bilibili.com/video/BV1WA411N7gB"
+    }
+  },
+    {
+    "name": "坏女人超喜欢",
+    "path": "坏女人超喜欢.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "坏女人超喜欢",
+      "en-US": "I love the bad women"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "吃粮香香！为了美少女回坑明日方舟！",
+      "time": "05:06-05:10",
+      "url": "https://www.bilibili.com/video/BV1WA411N7gB"
+    }
+  },
+    {
+    "name": "防 空 警 报",
+    "path": "防 空 警 报.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "防 空 警 报",
+      "en-US": "Air defense alert"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "吃粮香香！为了美少女回坑明日方舟！",
+      "time": "05:23-05:26",
+      "url": "https://www.bilibili.com/video/BV1WA411N7gB"
+    }
+  },
+    {
+    "name": "偶尔老年痴呆一下很正常对吧",
+    "path": "偶尔老年痴呆一下很正常对吧.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "偶尔老年痴呆一下很正常对吧",
+      "en-US": "It's normal to have Alzheimer's occasionally, right?"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "06:53-07:05",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+    {
+    "name": "最擅长的乐器是",
+    "path": "最擅长的乐器是.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "最擅长的乐器是",
+      "en-US": "my best instrument is"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "09:29-09:34",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+    {
+    "name": "阴阳先生",
+    "path": "阴阳先生.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "阴阳先生",
+      "en-US": "阴阳先生"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】阴阳先生",
+      "time": "01:05-01:31",
+      "url": "https://www.bilibili.com/video/BV1qT4y1K78y"
     }
   }
 ]
