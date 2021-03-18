@@ -86,7 +86,7 @@
       "zh-CN": "吐口水",
       "en-US": "spit"
     },
-    "category": "可爱希",
+    "category": "希希日常",
     "mark": {
       "title": "不准进入懈怠期！快来给希希发评论嘛",
       "time": "",
@@ -740,6 +740,96 @@
       "title": "【希望之声】Hide And Seek",
       "time": "00:34-01:06",
       "url": "https://www.bilibili.com/video/BV1kz4y1678u"
+    }
+  },
+  {
+    "name": "勾指起誓",
+    "path": "勾指起誓.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "勾指起誓",
+      "en-US": "勾指起誓"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】勾指起誓",
+      "time": "01:51-02:15",
+      "url": "https://www.bilibili.com/video/BV1CV411i7U2"
+    }
+  },
+  {
+    "name": "喵喵喵",
+    "path": "喵喵喵.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "喵喵喵",
+      "en-US": "meow meow meow"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "【希望之声】万神纪",
+      "time": "00:43-01:12",
+      "url": "https://www.bilibili.com/video/BV18N411o77B"
+    }
+  },
+  {
+    "name": "万神纪",
+    "path": "万神纪.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "万神纪",
+      "en-US": "万神纪"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】万神纪",
+      "time": "02:47-03:14",
+      "url": "https://www.bilibili.com/video/BV18N411o77B"
+    }
+  },
+  {
+    "name": "当冬夜渐暖",
+    "path": "当冬夜渐暖.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "当冬夜渐暖",
+      "en-US": "当冬夜渐暖"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】当冬夜渐暖",
+      "time": "01:29-02:14",
+      "url": "https://www.bilibili.com/video/BV1UA411W7s1"
+    }
+  },
+  {
+    "name": "ECHO",
+    "path": "ECHO.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "ECHO",
+      "en-US": "ECHO"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】ECHO",
+      "time": "00:34-01:16",
+      "url": "https://www.bilibili.com/video/BV1m5411J79a"
+    }
+  },
+  {
+    "name": "霞光",
+    "path": "霞光.mp3",
+    "date": "2021-03-18",
+    "translate": {
+      "zh-CN": "霞光",
+      "en-US": "霞光"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】霞光",
+      "time": "00:28-01:16",
+      "url": "https://www.bilibili.com/video/BV1tt4y1r7gr"
     }
   }
 ]
