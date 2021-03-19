@@ -193,7 +193,7 @@
     "date": "2021-03-15",
     "translate": {
       "zh-CN": "中 之 人 暴 露",
-      "en-US": "never gonna give you up"
+      "en-US": "I'm the man behind Ciyana"
     },
     "category": "混沌希",
     "mark": {
@@ -1070,6 +1070,186 @@
       "title": "【希望之声】Hawk Fly Tiger Run",
       "time": "00:50-01:18",
       "url": "https://www.bilibili.com/video/BV15v411t7H4"
+    }
+  },
+    {
+    "name": "该起床了哟",
+    "path": "该起床了哟.mp3",
+    "date": "2021-03-19",
+    "translate": {
+      "zh-CN": "该起床了哟",
+      "en-US": "get up"
+    },
+    "category": "清楚希",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "13:10-13:13",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+    {
+    "name": "大家好厉害",
+    "path": "大家好厉害.mp3",
+    "date": "2021-03-19",
+    "translate": {
+      "zh-CN": "大家好厉害",
+      "en-US": "awesome"
+    },
+    "category": "清楚希",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "12:56-13:00",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+    {
+    "name": "我醒啦",
+    "path": "我醒啦.mp3",
+    "date": "2021-03-19",
+    "translate": {
+      "zh-CN": "我醒啦",
+      "en-US": "I'm awake"
+    },
+    "category": "清楚希",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "12:36-12:37",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+    {
+    "name": "希希不会是个天才吧",
+    "path": "希希不会是个天才吧.mp3",
+    "date": "2021-03-19",
+    "translate": {
+      "zh-CN": "希希不会是个天才吧",
+      "en-US": "I'm a genius"
+    },
+    "category": "可爱希",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "16:43-16:46",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+    {
+    "name": "derderder~",
+    "path": "derderder~.mp3",
+    "date": "2021-03-19",
+    "translate": {
+      "zh-CN": "derderder~",
+      "en-US": "derderder~"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "18:22-18:25",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+    {
+    "name": "锵锵",
+    "path": "锵锵.mp3",
+    "date": "2021-03-19",
+    "translate": {
+      "zh-CN": "锵锵",
+      "en-US": "qiangqiang~"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "29:25-29:26",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+    {
+    "name": "我打游戏明明超级强",
+    "path": "我打游戏明明超级强.mp3",
+    "date": "2021-03-19",
+    "translate": {
+      "zh-CN": "我打游戏明明超级强",
+      "en-US": "I'm obviously good at playing games"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "29:58-30:01",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+    {
+    "name": "鬼脸希2",
+    "path": "鬼脸希2.mp3",
+    "date": "2021-03-19",
+    "translate": {
+      "zh-CN": "鬼脸希2",
+      "en-US": "make a face2"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "30:08-30:11",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+    {
+    "name": "自 知 之 明",
+    "path": "自 知 之 明.mp3",
+    "date": "2021-03-19",
+    "translate": {
+      "zh-CN": "自 知 之 明",
+      "en-US": "her self-knowledge"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "30:25-30:32",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+    {
+    "name": "初见（超色）",
+    "path": "初见（超色）.mp3",
+    "date": "2021-03-19",
+    "translate": {
+      "zh-CN": "初见（超色）",
+      "en-US": "the first meet(18+?)"
+    },
+    "category": "清楚希",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "31:28-31:34",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+    {
+    "name": "啵啵",
+    "path": "啵啵.mp3",
+    "date": "2021-03-19",
+    "translate": {
+      "zh-CN": "啵啵",
+      "en-US": "bobo"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "32:31-32:32",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+    {
+    "name": "不觉得很可爱吗",
+    "path": "不觉得很可爱吗.mp3",
+    "date": "2021-03-19",
+    "translate": {
+      "zh-CN": "不觉得很可爱吗",
+      "en-US": "so lovely, isn't it?"
+    },
+    "category": "清楚希",
+    "mark": {
+      "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
+      "time": "33:14-33:15",
+      "url": "https://www.bilibili.com/video/BV1EA411M7z6"
     }
   }
 ]
