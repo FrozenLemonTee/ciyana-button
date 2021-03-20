@@ -1198,7 +1198,7 @@
     "date": "2021-03-19",
     "translate": {
       "zh-CN": "自 知 之 明",
-      "en-US": "her self-knowledge"
+      "en-US": "self-knowledge"
     },
     "category": "希希名言",
     "mark": {
@@ -1304,7 +1304,7 @@
     "date": "2021-03-19",
     "translate": {
       "zh-CN": "有一丢丢儿撑不起来",
-      "en-US": "there's something little can be holed up"
+      "en-US": "there's something little can't be holed up"
     },
     "category": "debu希",
     "mark": {
@@ -1361,7 +1361,7 @@
       {
     "name": "妈耶",
     "path": "妈耶.mp3",
-    "date": "2021-03-19",
+    "date": "2021-03-20",
     "translate": {
       "zh-CN": "妈耶",
       "en-US": "my god"
@@ -1376,7 +1376,7 @@
       {
     "name": "对不起嘛~",
     "path": "对不起嘛~.mp3",
-    "date": "2021-03-19",
+    "date": "2021-03-20",
     "translate": {
       "zh-CN": "对不起嘛~",
       "en-US": "sorry~"
@@ -1386,6 +1386,126 @@
       "title": "堂堂梦魇，今日出道！【希亚娜Ciyana首播剪辑】",
       "time": "52:28-52:32 2P",
       "url": "https://www.bilibili.com/video/BV1EA411M7z6"
+    }
+  },
+      {
+    "name": "有谁会吃自己吗",
+    "path": "有谁会吃自己吗.mp3",
+    "date": "2021-03-20",
+    "translate": {
+      "zh-CN": "有谁会吃自己吗",
+      "en-US": "does anyone eat themselves"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "牛牛+泡菜=泡菜肥牛堡",
+      "time": "01:42-01:45",
+      "url": "https://www.bilibili.com/video/BV1Ey4y1E7oB"
+    }
+  },
+      {
+    "name": "你们必胖三斤",
+    "path": "你们必胖三斤.mp3",
+    "date": "2021-03-20",
+    "translate": {
+      "zh-CN": "你们必胖三斤",
+      "en-US": "you will gain three Jin"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "口号就要大声喊出来！二次元牛牛desu！",
+      "time": "01:00-01:01",
+      "url": "https://www.bilibili.com/video/BV1uZ4y1w7D7"
+    }
+  },
+      {
+    "name": "异世相遇 尽享美味！",
+    "path": "异世相遇 尽享美味！.mp3",
+    "date": "2021-03-20",
+    "translate": {
+      "zh-CN": "异世相遇 尽享美味！",
+      "en-US": "异世相遇 尽享美味！"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "口号就要大声喊出来！二次元牛牛desu！",
+      "time": "01:04-01:08",
+      "url": "https://www.bilibili.com/video/BV1uZ4y1w7D7"
+    }
+  },
+      {
+    "name": "cage",
+    "path": "cage.mp3",
+    "date": "2021-03-20",
+    "translate": {
+      "zh-CN": "cage",
+      "en-US": "cage"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】Cage",
+      "time": "03:52-04:39",
+      "url": "https://www.bilibili.com/video/BV1nz4y127E2"
+    }
+  },
+      {
+    "name": "飞鸟与鱼",
+    "path": "飞鸟与鱼.mp3",
+    "date": "2021-03-20",
+    "translate": {
+      "zh-CN": "飞鸟与鱼",
+      "en-US": "飞鸟与鱼"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】飞鸟与鱼",
+      "time": "01:39-02:15",
+      "url": "https://www.bilibili.com/video/BV1ty4y117n9"
+    }
+  },
+      {
+    "name": "lost stars",
+    "path": "lost stars.mp3",
+    "date": "2021-03-20",
+    "translate": {
+      "zh-CN": "lost stars",
+      "en-US": "lost stars"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】Lost Stars",
+      "time": "03:36-04:23",
+      "url": "https://www.bilibili.com/video/BV1Sz4y127ra"
+    }
+  },
+      {
+    "name": "我怀念的",
+    "path": "我怀念的.mp3",
+    "date": "2021-03-20",
+    "translate": {
+      "zh-CN": "我怀念的",
+      "en-US": "我怀念的"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】我怀念的",
+      "time": "01:14-01:46",
+      "url": "https://www.bilibili.com/video/BV1a5411N7Bw"
+    }
+  },
+      {
+    "name": "漩涡",
+    "path": "漩涡.mp3",
+    "date": "2021-03-20",
+    "translate": {
+      "zh-CN": "漩涡",
+      "en-US": "漩涡"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【希望之声】漩涡",
+      "time": "03:23-04:10",
+      "url": "https://www.bilibili.com/video/BV1yZ4y1A7cV"
     }
   }
 ]

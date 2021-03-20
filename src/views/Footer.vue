@@ -10,7 +10,7 @@
           </template>
         </div>
         <div class="info">
-          <div>create by <a href="https://github.com/blacktunes/voices-button-cli" target="_blank">voices-button-cli</a></div>
+          <div>powered by <a href="https://github.com/blacktunes/voices-button-cli" target="_blank">voices-button-cli</a></div>
           <div>hosted on <a href="https://pages.cloudflare.com/" target="_blank">Cloudflare Pages</a></div>
           <template v-for="(item, index) in info" :key="index">
             <div v-html="item"></div>
