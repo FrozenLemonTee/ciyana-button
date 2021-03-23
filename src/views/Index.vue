@@ -80,12 +80,17 @@ export default {
         name: 'Hiiro按钮',
         url: 'https://hiiro.club/',
         background: '#F5C1BB'
-      }
+      },
       // {
       //   name: '七奈按钮',
       //   url: 'https://kaguranana.moe/',
       //   background: '#c4afd0'
       // }
+      {
+        name: '白神遥按钮',
+        url: 'https://haruka.fun/',
+        background: '#FFAEA6'
+      }
     ]
 
     const voice = ref() as Ref<HTMLElement>

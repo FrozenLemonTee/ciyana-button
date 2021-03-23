@@ -57,3 +57,6 @@
 - 使用[voices-button-cli](https://github.com/blacktunes/voices-button-cli)创建的语音按钮
 - 所用模板为[Hiiro按钮](https://github.com/blacktunes/hiiro-button)
 
+### 友情链接
+- [猫猫按钮](https://hiiro.club/)（Hiiro）
+- [豹按钮](https://haruka.fun/)（白神遥）
