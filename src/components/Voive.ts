@@ -107,7 +107,7 @@ const createPlayer = (btnList) => {
    */
   const play = (voice: VoicesItem) => {
     // 可在此处增加播放统计相关代码
-        if (process.env.NODE_ENV === 'production' && GA_ID) {
+    if (process.env.NODE_ENV === 'production' && GA_ID) {
       /* eslint-disable @typescript-eslint/camelcase */
       gtag('event', '播放语音', {
         event_category: voice.name,
