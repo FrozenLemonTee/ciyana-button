@@ -2,16 +2,15 @@
   <transition name="fade" appear>
     <div class="footer">
       <div>
-        <div class="author">
+        <div class="author" style="height: 20px">
           <div>©2021</div>
           <template v-for="(item, index) in author" :key="index">
             <a v-if="index > 0">&</a>
             <a :href="item.url || null" target="_blank">{{ item.name }}</a>
           </template>
         </div>
-        <div class="info">
-          <div>powered by <a href="https://github.com/blacktunes/voices-button-cli" target="_blank">voices-button-cli</a></div>
-          <div>hosted on <a href="https://pages.cloudflare.com/" target="_blank">Cloudflare Pages</a></div>
+        <div class="info" style="height: 20px">
+          <div>powered by <a href="https://github.com/blacktunes/voices-button-cli" target="_blank">voices-button-cli</a>  |  hosted on <a href="https://pages.cloudflare.com/" target="_blank">Cloudflare Pages</a></div>
           <template v-for="(item, index) in info" :key="index">
             <div v-html="item"></div>
           </template>
@@ -27,6 +26,7 @@
           <a :href="githubUrl" target="_blank">{{ t(INFO_I18N.toGithub) }}</a>
         </div>
         <div>{{ t(INFO_I18N.notOfficial) }}</div>
+        <img style="margin-top: 5px" alt="GitHub Repo license" src="https://img.shields.io/github/license/FrozenLemonTee/ciyana-button?style=social">
       </div>
     </div>
   </transition>

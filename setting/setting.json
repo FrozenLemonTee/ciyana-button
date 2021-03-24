@@ -23,7 +23,7 @@
       }
     ],
     "info": [
-      ""
+      "<img style=\"margin: 5px 5px 0 -2px\" alt=\"GitHub Repo stars\" src=\"https://img.shields.io/github/stars/FrozenLemonTee/ciyana-button?style=social\"><img style=\"margin: 5px 5px 0 -2px\" alt=\"GitHub Repo forks\" src=\"https://img.shields.io/github/forks/FrozenLemonTee/ciyana-button?style=social\">"
     ],
     "githubUrl": "https://github.com/FrozenLemonTee/ciyana-button"
   },
@@ -35,6 +35,7 @@
     "imgWidth": "",
     "imgHeight": ""
   },
+  "GA_ID": "UA-192765602",
   "mediaSession": "",
   "CDN": ""
 }
