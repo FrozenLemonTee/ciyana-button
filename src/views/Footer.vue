@@ -2,7 +2,7 @@
   <transition name="fade" appear>
     <div class="footer">
       <div>
-        <div class="author" style="height: 20px">
+        <div class="author" style="margin: 8px auto auto auto">
           <div>©2021</div>
           <template v-for="(item, index) in author" :key="index">
             <a v-if="index > 0">&</a>
