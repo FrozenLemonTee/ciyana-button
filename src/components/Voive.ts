@@ -110,8 +110,8 @@ const createPlayer = (btnList) => {
     if (process.env.NODE_ENV === 'production' && GA_ID) {
       /* eslint-disable @typescript-eslint/camelcase */
       gtag('event', '播放语音', {
-        event_category: voice.name,
-        event_label: voice.category,
+        event_category: voice.category,
+        event_label: voice.name,
         value: 1
       })
       /* eslint-enable */
