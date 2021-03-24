@@ -4,9 +4,11 @@ import { EVENT, INFO_I18N, Mark, Player, PlayerList, PlaySetting, SearchData, Tr
 import { getrRandomInt } from '@/assets/script/utils'
 import { inject, reactive, ref, Ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
+import {gtag} from "@/assets/script/analytics/gtag";
 
 const MEDIA = Setting['mediaSession']
 const CDN = Setting['CDN']
+const GA_ID = Setting['GA_ID']
 
 const useSearch = (btnList) => {
   const searchData: SearchData = inject('searchData') as SearchData
@@ -105,6 +107,15 @@ const createPlayer = (btnList) => {
    */
   const play = (voice: VoicesItem) => {
     // 可在此处增加播放统计相关代码
+        if (process.env.NODE_ENV === 'production' && GA_ID) {
+      /* eslint-disable @typescript-eslint/camelcase */
+      gtag('event', '播放语音', {
+        event_category: voice.name,
+        event_label: voice.category,
+        value: 1
+      })
+      /* eslint-enable */
+    }
     if (!playSetting.overlap) {
       if (playerList.has('once')) (playerList.get('once') as Player).audio.pause()
       if (playSetting.nowPlay && playSetting.nowPlay.name === voice.name) {
