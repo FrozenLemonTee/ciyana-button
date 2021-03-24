@@ -4,7 +4,7 @@ import { EVENT, INFO_I18N, Mark, Player, PlayerList, PlaySetting, SearchData, Tr
 import { getrRandomInt } from '@/assets/script/utils'
 import { inject, reactive, ref, Ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
-import {gtag} from "@/assets/script/analytics/gtag";
+import { gtag } from '@/assets/script/analytics/gtag'
 
 const MEDIA = Setting['mediaSession']
 const CDN = Setting['CDN']

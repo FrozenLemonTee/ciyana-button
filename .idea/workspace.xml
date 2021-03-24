@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Voive.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Voive.ts" afterDir="false" />
-    </list>
+    <list default="true" id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +119,7 @@
       <workItem from="1616421225131" duration="622000" />
       <workItem from="1616545519003" duration="197000" />
       <workItem from="1616554506831" duration="7819000" />
-      <workItem from="1616589729030" duration="5650000" />
+      <workItem from="1616589729030" duration="5958000" />
     </task>
     <servers />
   </component>
