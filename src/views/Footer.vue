@@ -9,7 +9,7 @@
             <a :href="item.url || null" target="_blank">{{ item.name }}</a>
           </template>
         </div>
-        <div class="info" style="height: 20px">
+        <div class="info">
           <div>powered by <a href="https://github.com/blacktunes/voices-button-cli" target="_blank">voices-button-cli</a>  |  hosted on <a href="https://pages.cloudflare.com/" target="_blank">Cloudflare Pages</a></div>
           <template v-for="(item, index) in info" :key="index">
             <div v-html="item"></div>
