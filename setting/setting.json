@@ -28,14 +28,14 @@
     "githubUrl": "https://github.com/FrozenLemonTee/ciyana-button"
   },
   "console": {
-    "text": "",
-    "size": "",
-    "color": "",
-    "img": "",
-    "imgWidth": "",
-    "imgHeight": ""
+    "text": "Welcome To Ciyana-Button!",
+    "size": "22px",
+    "color": "#1a349f",
+    "img": "ciyana.jpg",
+    "imgWidth": "100%",
+    "imgHeight": "100%"
   },
   "GA_ID": "UA-192765602",
   "mediaSession": "",
-  "CDN": ""
+  "CDN": "https://cdn.jsdelivr.net/gh/FrozenLemonTee/ciyana-button@main/public/voices/"
 }

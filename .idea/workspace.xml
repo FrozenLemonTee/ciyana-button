@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/setting.json" beforeDir="false" afterPath="$PROJECT_DIR$/setting/setting.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +123,8 @@
       <workItem from="1616545519003" duration="197000" />
       <workItem from="1616554506831" duration="7819000" />
       <workItem from="1616589729030" duration="10225000" />
+      <workItem from="1616683768139" duration="833000" />
+      <workItem from="1616724408539" duration="2426000" />
     </task>
     <servers />
   </component>
@@ -173,9 +176,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1616561726650" />
-    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1616596837696">
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1616724451196">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1616596837696" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1616724451196" />
   </component>
 </project>
