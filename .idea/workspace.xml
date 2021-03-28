@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/setting.json" beforeDir="false" afterPath="$PROJECT_DIR$/setting/setting.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/translate/locales.json" beforeDir="false" afterPath="$PROJECT_DIR$/setting/translate/locales.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,15 +61,15 @@
     <property name="ts.external.directory.path" value="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices" />
-      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public" />
-      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\src\assets\script" />
       <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\test" />
       <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices" />
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices" />
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public" />
       <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\img" />
     </key>
   </component>
@@ -124,7 +125,10 @@
       <workItem from="1616554506831" duration="7819000" />
       <workItem from="1616589729030" duration="10225000" />
       <workItem from="1616683768139" duration="833000" />
-      <workItem from="1616724408539" duration="2426000" />
+      <workItem from="1616724408539" duration="5503000" />
+      <workItem from="1616742596111" duration="12000" />
+      <workItem from="1616830139691" duration="1861000" />
+      <workItem from="1616834894447" duration="1217000" />
     </task>
     <servers />
   </component>
@@ -148,26 +152,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="726" y="184" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1615698111079" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1616634213459">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1616742606678">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616634213459" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1616634214712">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616742606678" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1616741851238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616634214712" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1616634214712">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616741851238" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1616741851238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616634214712" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1616634214712">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616741851238" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1616741851238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616634214712" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1616634214712">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616741851238" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1616741851238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616634214712" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616741851238" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1616596849231">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -176,9 +180,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1616561726650" />
-    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1616724451196">
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1616891331628">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1616724451196" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1616891331628" />
   </component>
 </project>
