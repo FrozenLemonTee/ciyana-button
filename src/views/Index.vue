@@ -79,17 +79,26 @@ export default {
       {
         name: 'Hiiro按钮',
         url: 'https://hiiro.club/',
-        background: '#F5C1BB'
+        background: '#F5C1BB',
+        color: '#ffffff'
       },
       {
         name: '白神遥按钮',
         url: 'https://haruka.fun/',
-        background: '#FFAEA6'
+        background: '#FFAEA6',
+        color: '#ffffff'
       },
       {
         name: '七奈按钮',
         url: 'https://kaguranana.moe/',
-        background: '#c4afd0'
+        background: '#c4afd0',
+        color: '#ffffff'
+      },
+      {
+        name: '锤子按钮',
+        url: 'https://kyouka.icu/',
+        background: '#4fd6f8',
+        color: '#ffffff'
       }
     ]
 
