@@ -63,4 +63,18 @@
 - [猫猫按钮](https://hiiro.club/)（Hiiro）
 - [豹按钮](https://haruka.fun/)（白神遥）
 - [七奈按钮](https://kaguranana.moe/)（神乐七奈）
-- [锤子按钮](https://kyouka.icu/)（京华 from Overidea）
+- [京华破防站](https://kyouka.icu/)（京华 from Overidea）
+
+### 更新日志
+<details>
+    <summary>点此展开</summary>
+    - 2021/03/20
+    <br>新增100条语音<br>
+    添加「猫猫按钮」友情链接<br>
+    - 2021/03/23
+    <br>添加「豹按钮」友情链接<br>
+    - 2021/03/28
+    <br>添加「七奈按钮」友情链接<br>
+    - 2021/06/26
+    <br>添加「京华破防站」友情链接<br>
+</details>

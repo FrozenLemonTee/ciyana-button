@@ -4,7 +4,6 @@
     <list default="true" id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +142,8 @@
       <workItem from="1617888422660" duration="374000" />
       <workItem from="1617964747091" duration="621000" />
       <workItem from="1618042478032" duration="212000" />
-      <workItem from="1624718647024" duration="2160000" />
+      <workItem from="1624718647024" duration="2963000" />
+      <workItem from="1624864426638" duration="2091000" />
     </task>
     <servers />
   </component>
