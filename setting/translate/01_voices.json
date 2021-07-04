@@ -1,4 +1,1264 @@
 [
+    {
+    "name": "啊！？",
+    "path": "啊！？.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "啊！？",
+      "en-US": "Ah!?"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "双 希 临 门 2",
+      "time": "00:10-00:11",
+      "url": "https://www.bilibili.com/video/BV1f64y1X77Y"
+    }
+  },
+      {
+    "name": "笑",
+    "path": "笑.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "笑",
+      "en-US": "laugh"
+    },
+    "category": "清楚希",
+    "mark": {
+      "title": "双 希 临 门 2",
+      "time": "00:48-00:49",
+      "url": "https://www.bilibili.com/video/BV1f64y1X77Y"
+    }
+  },
+        {
+    "name": "我可以和你一起睡",
+    "path": "我可以和你一起睡.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我可以和你一起睡",
+      "en-US": "I can sleep with you"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "双 希 临 门 2",
+      "time": "01:52-01:54",
+      "url": "https://www.bilibili.com/video/BV1f64y1X77Y"
+    }
+  },
+  {
+    "name": "你是个好人",
+    "path": "你是个好人.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "你是个好人",
+      "en-US": "you are a good men"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "双 希 临 门 2",
+      "time": "02:45-02:46",
+      "url": "https://www.bilibili.com/video/BV1f64y1X77Y"
+    }
+  },
+  {
+    "name": "我有把裤子穿反过",
+    "path": "我有把裤子穿反过.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我有把裤子穿反过",
+      "en-US": "I wore my pants upside down"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "双 希 临 门 2",
+      "time": "02:23-02:26",
+      "url": "https://www.bilibili.com/video/BV1f64y1X77Y"
+    }
+  },
+    {
+    "name": "复 仇 成 功",
+    "path": "复 仇 成 功.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "复 仇 成 功",
+      "en-US": "Revenge"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "震惊！梦魇在暗杀友人后被贯穿！不仅不悔改反而爆锤之！",
+      "time": "02:12-02:24",
+      "url": "https://www.bilibili.com/video/BV1q64y1v7Fu"
+    }
+  },
+  {
+    "name": "我要红包！",
+    "path": "我要红包！.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我要红包！",
+      "en-US": "I want a Hongbao!"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "牛牛打滚求红包",
+      "time": "00:33-00:40",
+      "url": "https://www.bilibili.com/video/BV1744y1z7Wu"
+    }
+  },
+    {
+    "name": "红包！(ﾉ≧∀≦)ﾉ",
+    "path": "红包！(ﾉ≧∀≦)ﾉ.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "红包！(ﾉ≧∀≦)ﾉ",
+      "en-US": "Hongbao！(ﾉ≧∀≦)ﾉ"
+    },
+    "category": "可爱希",
+    "mark": {
+      "title": "牛牛打滚求红包",
+      "time": "02:42-02:48",
+      "url": "https://www.bilibili.com/video/BV1744y1z7Wu"
+    }
+  },
+  {
+    "name": "DayDaydream",
+    "path": "DayDaydream.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "DayDaydream",
+      "en-US": "DayDaydream"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【缀梦长歌】Daydaydream",
+      "time": "01:10-01:55",
+      "url": "https://www.bilibili.com/video/BV165411A7hb"
+    }
+  },
+    {
+    "name": "The Wolven Storm",
+    "path": "The Wolven Storm.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "The Wolven Storm",
+      "en-US": "The Wolven Storm"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【缀梦长歌】The Wolven Storm",
+      "time": "02:29-03:19",
+      "url": "https://www.bilibili.com/video/BV19Q4y197vj"
+    }
+  },
+  {
+    "name": "想你的365天",
+    "path": "想你的365天.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "想你的365天",
+      "en-US": "想你的365天"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【缀梦长歌】想你的365天",
+      "time": "03:08-04:19",
+      "url": "https://www.bilibili.com/video/BV1h44y167Tn"
+    }
+  },
+  {
+    "name": "Dance Monkey",
+    "path": "Dance Monkey.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "Dance Monkey",
+      "en-US": "Dance Monkey"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【缀梦长歌】Dance Monkey",
+      "time": "01:26-01:46",
+      "url": "https://www.bilibili.com/video/BV13y4y1x7QP"
+    }
+  },
+  {
+    "name": "Levitating",
+    "path": "Levitating.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "Levitating",
+      "en-US": "Levitating"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【缀梦长歌】Levitating",
+      "time": "00:37-01:00",
+      "url": "https://www.bilibili.com/video/BV1ff4y1p7s9"
+    }
+  },
+  {
+    "name": "相思",
+    "path": "相思.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "相思",
+      "en-US": "相思"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【缀梦长歌】相思",
+      "time": "01:33-02:06",
+      "url": "https://www.bilibili.com/video/BV1sQ4y1d71h"
+    }
+  },
+  {
+    "name": "月光",
+    "path": "月光.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "月光",
+      "en-US": "月光"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【缀梦长歌】月光",
+      "time": "02:46-03:24",
+      "url": "https://www.bilibili.com/video/BV1GU4y1j75C"
+    }
+  },
+    {
+    "name": "月亮船",
+    "path": "月亮船.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "月亮船",
+      "en-US": "月亮船"
+    },
+    "category": "希音",
+    "mark": {
+      "title": "【缀梦长歌】月亮船",
+      "time": "01:20-01:45",
+      "url": "https://www.bilibili.com/video/BV1hf4y1t7S3"
+    }
+  },
+  {
+    "name": "ん？",
+    "path": "ん？.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "ん？",
+      "en-US": "Hmm？"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "这波啊，是眼镜和扇子配合不是太好！",
+      "time": "00:24-00:25",
+      "url": "https://www.bilibili.com/video/BV1nw411f7we"
+    }
+  },
+    {
+    "name": "一句话概括 四 大 名 著",
+    "path": "一句话概括 四 大 名 著.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "一句话概括 四 大 名 著",
+      "en-US": "Summarize the 'four famous works' in one sentence"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "奇怪的四大名著增加了",
+      "time": "03:10-03:18",
+      "url": "https://www.bilibili.com/video/BV1gA411G7py"
+    }
+  },
+    {
+    "name": "我真是个仙女（叉腰）",
+    "path": "我真是个仙女（叉腰）.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我真是个仙女（叉腰）",
+      "en-US": "I'm such a fairy (akimbo)"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "这波啊，是眼镜和扇子配合不是太好！",
+      "time": "00:26-00:29",
+      "url": "https://www.bilibili.com/video/BV1nw411f7we"
+    }
+  },
+  {
+    "name": "哈↑哈↑哈↑",
+    "path": "哈↑哈↑哈↑.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "哈↑哈↑哈↑",
+      "en-US": "Ha↑Ha↑Ha↑"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "这波啊，是眼镜和扇子配合不是太好！",
+      "time": "00:42-00:43",
+      "url": "https://www.bilibili.com/video/BV1nw411f7we"
+    }
+  },
+    {
+    "name": "悬 停 眼 镜",
+    "path": "悬 停 眼 镜.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "悬 停 眼 镜",
+      "en-US": "Hovering Eyeglasses"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "这波啊，是眼镜和扇子配合不是太好！",
+      "time": "01:54-02:07",
+      "url": "https://www.bilibili.com/video/BV1nw411f7we"
+    }
+  },
+  {
+    "name": "不可名状的牛叫",
+    "path": "不可名状的牛叫.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "不可名状的牛叫",
+      "en-US": "Indescribable bull barking"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "牛牛大战战斗鸡",
+      "time": "02:03-02:08",
+      "url": "https://www.bilibili.com/video/BV13w411f7gj"
+    }
+  },
+    {
+    "name": "怎么那么多×3",
+    "path": "怎么那么多×3.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "怎么那么多×3",
+      "en-US": "Why are there so many ×3"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "牛牛大战战斗鸡",
+      "time": "02:10-02:12",
+      "url": "https://www.bilibili.com/video/BV13w411f7gj"
+    }
+  },
+    {
+    "name": "怎么又变成牛牛啦昂（委屈）",
+    "path": "怎么又变成牛牛啦昂（委屈）.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "怎么又变成牛牛啦昂（委屈）",
+      "en-US": "Why do you say 'cow' again?(Wronged)"
+    },
+    "category": "可爱希",
+    "mark": {
+      "title": "希希才不要当败犬！",
+      "time": "01:07-01:10",
+      "url": "https://www.bilibili.com/video/BV1ZK411F7rh"
+    }
+  },
+    {
+    "name": "我们邻家女孩永远都是败犬qwq",
+    "path": "我们邻家女孩永远都是败犬qwq.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我们邻家女孩永远都是败犬qwq",
+      "en-US": "We neighbour's girls are always losers(qwq)"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "希希才不要当败犬！",
+      "time": "01:49-01:53",
+      "url": "https://www.bilibili.com/video/BV1ZK411F7rh"
+    }
+  },
+    {
+    "name": "弄得我脸都红啦~",
+    "path": "弄得我脸都红啦~.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "弄得我脸都红啦~",
+      "en-US": "Made my face blush~"
+    },
+    "category": "可爱希",
+    "mark": {
+      "title": "希希才不要当败犬！",
+      "time": "03:13-03:15",
+      "url": "https://www.bilibili.com/video/BV1ZK411F7rh"
+    }
+  },
+    {
+    "name": "哈啊~~",
+    "path": "哈啊~~.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "哈啊~~",
+      "en-US": "Haa~~"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "希希才不要当败犬！",
+      "time": "03:28-03:29",
+      "url": "https://www.bilibili.com/video/BV1ZK411F7rh"
+    }
+  },
+  {
+    "name": "我声音真好听",
+    "path": "我声音真好听.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我声音真好听",
+      "en-US": "My voice is so nice"
+    },
+    "category": "可爱希",
+    "mark": {
+      "title": "希希才不要当败犬！",
+      "time": "03:32-03:34",
+      "url": "https://www.bilibili.com/video/BV1ZK411F7rh"
+    }
+  },
+  {
+    "name": "自己被自己PUA了",
+    "path": "自己被自己PUA了.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "自己被自己PUA了",
+      "en-US": "I PUA myself"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "希希才不要当败犬！",
+      "time": "03:35-03:38",
+      "url": "https://www.bilibili.com/video/BV1ZK411F7rh"
+    }
+  },
+  {
+    "name": "我是二次元",
+    "path": "我是二次元.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我是二次元",
+      "en-US": "I am Otaku"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "妈妈以为我是百合可我只是想自爆喜欢……",
+      "time": "00:52-00:54",
+      "url": "https://www.bilibili.com/video/BV1bV411J73f"
+    }
+  },
+  {
+    "name": "这个是我老婆",
+    "path": "这个是我老婆.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "这个是我老婆",
+      "en-US": "This is my Waifu"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "妈妈以为我是百合可我只是想自爆喜欢……",
+      "time": "01:00-01:02",
+      "url": "https://www.bilibili.com/video/BV1bV411J73f"
+    }
+  },
+  {
+    "name": "我要狗带了",
+    "path": "我要狗带了.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我要狗带了",
+      "en-US": "I'm going to die"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "色批让牛超越恐惧",
+      "time": "01:44-01:45",
+      "url": "https://www.bilibili.com/video/BV1M54y157N3"
+    }
+  },
+    {
+    "name": "我进脏脏的地方咯",
+    "path": "我进脏脏的地方咯.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我进脏脏的地方咯",
+      "en-US": "I go to a dirty place"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "色批让牛超越恐惧",
+      "time": "01:56-01:58",
+      "url": "https://www.bilibili.com/video/BV1M54y157N3"
+    }
+  },
+    {
+    "name": "涩比牛牛",
+    "path": "涩比牛牛.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "涩比牛牛",
+      "en-US": "Old Goat"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "色批让牛超越恐惧",
+      "time": "02:01-02:07",
+      "url": "https://www.bilibili.com/video/BV1M54y157N3"
+    }
+  },
+    {
+    "name": "哧溜~",
+    "path": "哧溜~.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "哧溜~",
+      "en-US": "Chuckle~"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "色批让牛超越恐惧",
+      "time": "02:07-02:08",
+      "url": "https://www.bilibili.com/video/BV1M54y157N3"
+    }
+  },
+    {
+    "name": "里面的怪物都是这样的美女那就一点都不可怕了",
+    "path": "里面的怪物都是这样的美女那就一点都不可怕了.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "里面的怪物都是这样的美女那就一点都不可怕了",
+      "en-US": "If the monsters inside are all such beauties, it won't be scary at all"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "色批让牛超越恐惧",
+      "time": "02:22-02:26",
+      "url": "https://www.bilibili.com/video/BV1M54y157N3"
+    }
+  },
+    {
+    "name": "我想要姐姐的嘴巴",
+    "path": "我想要姐姐的嘴巴.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我想要姐姐的嘴巴",
+      "en-US": "I want sister's mouth"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "色批让牛超越恐惧",
+      "time": "03:04-03:06",
+      "url": "https://www.bilibili.com/video/BV1M54y157N3"
+    }
+  },
+    {
+    "name": "她说我可爱",
+    "path": "她说我可爱.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "她说我可爱",
+      "en-US": "She said i'm cute"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "色批让牛超越恐惧",
+      "time": "03:17-03:20",
+      "url": "https://www.bilibili.com/video/BV1M54y157N3"
+    }
+  },
+    {
+    "name": "怪笑",
+    "path": "怪笑.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "怪笑",
+      "en-US": "Weird smile"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "色批让牛超越恐惧",
+      "time": "03:29-03:32",
+      "url": "https://www.bilibili.com/video/BV1M54y157N3"
+    }
+  },
+    {
+    "name": "我输了就光头",
+    "path": "我输了就光头.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我输了就光头",
+      "en-US": "I shave my head if I lose"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "牛变秃了，也变强了",
+      "time": "00:20-00:28",
+      "url": "https://www.bilibili.com/video/BV17K4y1V7mM"
+    }
+  },
+    {
+    "name": "牛 牛 剃 头",
+    "path": "牛 牛 剃 头.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "牛 牛 剃 头",
+      "en-US": "shaved cow"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "牛变秃了，也变强了",
+      "time": "01:35-01:40",
+      "url": "https://www.bilibili.com/video/BV17K4y1V7mM"
+    }
+  },
+    {
+    "name": "童装希希",
+    "path": "童装希希.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "童装希希",
+      "en-US": "children's clothing of ciyana"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "因为身高过于迷你而买衣服买到童装的希希",
+      "time": "01:31-01:38",
+      "url": "https://www.bilibili.com/video/BV1nQ4y1d7GZ"
+    }
+  },
+    {
+    "name": "朗读古文吃瘪的希希",
+    "path": "朗读古文吃瘪的希希.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "朗读古文吃瘪的希希",
+      "en-US": "give in to read poetry"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "此文已成传说",
+      "time": "02:10-02:28",
+      "url": "https://www.bilibili.com/video/BV1Zv411G7Uj"
+    }
+  },
+    {
+    "name": "大家学会了吗",
+    "path": "大家学会了吗.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "大家学会了吗",
+      "en-US": "Have you learned it?"
+    },
+    "category": "可爱希",
+    "mark": {
+      "title": "此文已成传说",
+      "time": "02:45-02:49",
+      "url": "https://www.bilibili.com/video/BV1Zv411G7Uj"
+    }
+  },
+    {
+    "name": "哇哦~",
+    "path": "哇哦~.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "哇哦~",
+      "en-US": "Wow~"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "奇怪的四大名著增加了",
+      "time": "03:20-03:23",
+      "url": "https://www.bilibili.com/video/BV1gA411G7py"
+    }
+  },
+    {
+    "name": "想不到你竟然有这样的癖好~",
+    "path": "想不到你竟然有这样的癖好.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "想不到你竟然有这样的癖好",
+      "en-US": "I didn't expect you to have such a hobby"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "奇怪的四大名著增加了",
+      "time": "03:31-03:34",
+      "url": "https://www.bilibili.com/video/BV1gA411G7py"
+    }
+  },
+    {
+    "name": "心好痛",
+    "path": "心好痛.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "心好痛",
+      "en-US": "my heart aches"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "这也能叫涩图？不要小看涩图啊！！",
+      "time": "01:20-01:23",
+      "url": "https://www.bilibili.com/video/BV1Af4y1p7nV"
+    }
+  },
+    {
+    "name": "这也好意思叫涩图",
+    "path": "这也好意思叫涩图.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "这也好意思叫涩图",
+      "en-US": "This is also ashamed to be called 'porn picture'"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "这也能叫涩图？不要小看涩图啊！！",
+      "time": "02:59-03:01",
+      "url": "https://www.bilibili.com/video/BV1Af4y1p7nV"
+    }
+  },
+    {
+    "name": "那我变臭了你就不喜欢我了吗",
+    "path": "那我变臭了你就不喜欢我了吗.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "那我变臭了你就不喜欢我了吗",
+      "en-US": "Then I get smelly, don't you like me?"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "离婚过于熟练的希希（雾）",
+      "time": "02:20-02:23",
+      "url": "https://www.bilibili.com/video/BV1NA411V7P3"
+    }
+  },
+    {
+    "name": "这你们不懂~",
+    "path": "这你们不懂~.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "这你们不懂~",
+      "en-US": "You don't understand this"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "希希似乎……读懂了空气？",
+      "time": "00:51-00:53",
+      "url": "https://www.bilibili.com/video/BV1dy4y1x7Ab"
+    }
+  },
+    {
+    "name": "你看我在蠕动",
+    "path": "你看我在蠕动.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "你看我在蠕动",
+      "en-US": "You see that I'm squirming"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "希希似乎……读懂了空气？",
+      "time": "02:53-02:57",
+      "url": "https://www.bilibili.com/video/BV1dy4y1x7Ab"
+    }
+  },
+    {
+    "name": "不要打断施法啊",
+    "path": "不要打断施法啊.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "不要打断施法啊",
+      "en-US": "don't interrupt me to release skills"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "主播竟被守夜人……？【世界】【绯红之王】【天堂制造】都无法逆转的被霸凌的命运！",
+      "time": "00:43-00:45",
+      "url": "https://www.bilibili.com/video/BV1r64y1S7up"
+    }
+  },
+    {
+    "name": "你们可真坏哦",
+    "path": "你们可真坏哦.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "你们可真坏哦",
+      "en-US": "You guys are so bad"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "主播竟被守夜人……？【世界】【绯红之王】【天堂制造】都无法逆转的被霸凌的命运！",
+      "time": "03:01-03:03",
+      "url": "https://www.bilibili.com/video/BV1r64y1S7up"
+    }
+  },
+    {
+    "name": "我暂停施法还不行吗",
+    "path": "我暂停施法还不行吗.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我暂停施法还不行吗",
+      "en-US": "then let me make a pause"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "主播竟被守夜人……？【世界】【绯红之王】【天堂制造】都无法逆转的被霸凌的命运！",
+      "time": "04:30-04:32",
+      "url": "https://www.bilibili.com/video/BV1r64y1S7up"
+    }
+  },
+    {
+    "name": "我怎么可能会念错自己的名字呢",
+    "path": "我怎么可能会念错自己的名字呢.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我怎么可能会念错自己的名字呢",
+      "en-US": "How could I mispronounce my name"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "【诺莺Nox】愚人节新衣装！真正面目是？",
+      "time": "00:59-01:09",
+      "url": "https://www.bilibili.com/video/BV1hy4y1b7uw"
+    }
+  },
+    {
+    "name": "啊↘咳↗啊↘嗯↗嗯↗啊↗",
+    "path": "啊↘咳↗啊↘嗯↗嗯↗啊↗.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "啊↘咳↗啊↘嗯↗嗯↗啊↗",
+      "en-US": "ah ↘ hawk ↗ ah ↘ ah ↗ ah ↗ ah ↗"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "【诺莺Nox】愚人节新衣装！真正面目是？",
+      "time": "00:32-00:36",
+      "url": "https://www.bilibili.com/video/BV1hy4y1b7uw"
+    }
+  },
+    {
+    "name": "嗓子不是很舒服",
+    "path": "嗓子不是很舒服.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "嗓子不是很舒服",
+      "en-US": "My throat is not very well"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "【诺莺Nox】愚人节新衣装！真正面目是？",
+      "time": "00:36-00:43",
+      "url": "https://www.bilibili.com/video/BV1hy4y1b7uw"
+    }
+  },
+    {
+    "name": "我当然是夜莺",
+    "path": "我当然是夜莺.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我当然是夜莺",
+      "en-US": "Of course i am Nox"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "【诺莺Nox】愚人节新衣装！真正面目是？",
+      "time": "01:37-01:42",
+      "url": "https://www.bilibili.com/video/BV1hy4y1b7uw"
+    }
+  },
+    {
+    "name": "好——奇——怪——哦——",
+    "path": "好——奇——怪——哦——.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "好——奇——怪——哦——",
+      "en-US": "so strange"
+    },
+    "category": "可爱希",
+    "mark": {
+      "title": "【诺莺Nox】愚人节新衣装！真正面目是？",
+      "time": "02:36-02:39",
+      "url": "https://www.bilibili.com/video/BV1hy4y1b7uw"
+    }
+  },
+    {
+    "name": "不要和我绝交啊",
+    "path": "不要和我绝交啊.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "不要和我绝交啊",
+      "en-US": "Don't break up with me"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "由梦魇太过丈育导致的大型绝交修罗场",
+      "time": "01:08-01:11",
+      "url": "https://www.bilibili.com/video/BV15y4y1b7bo"
+    }
+  },
+    {
+    "name": "牛牛的小秘密",
+    "path": "牛牛的小秘密.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "牛牛的小秘密",
+      "en-US": "Ciyana's secret"
+    },
+    "category": "可爱希",
+    "mark": {
+      "title": "由梦魇太过丈育导致的大型绝交修罗场",
+      "time": "04:30-04:32",
+      "url": "https://www.bilibili.com/video/BV15y4y1b7bo"
+    }
+  },
+    {
+    "name": "这游戏还有其他名次吗",
+    "path": "这游戏还有其他名次吗.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "这游戏还有其他名次吗",
+      "en-US": "Is there any other ranking in this game?"
+    },
+    "category": "希希名言",
+    "mark": {
+      "title": "逆转绝杀！触底狂追的马里奥赛车",
+      "time": "01:11-01:14",
+      "url": "https://www.bilibili.com/video/BV15v4118716"
+    }
+  },
+    {
+    "name": "我不能接受（委屈）",
+    "path": "我不能接受（委屈）.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "我不能接受（委屈）",
+      "en-US": "I can't accept (cry)"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "逆转绝杀！触底狂追的马里奥赛车",
+      "time": "01:38-01:40",
+      "url": "https://www.bilibili.com/video/BV15v4118716"
+    }
+  },
+    {
+    "name": "再冲一个×2",
+    "path": "再冲一个×2.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "再冲一个×2",
+      "en-US": "rush more ×2"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "逆转绝杀！触底狂追的马里奥赛车",
+      "time": "00:51-00:54",
+      "url": "https://www.bilibili.com/video/BV15v4118716"
+    }
+  },
+    {
+    "name": "贴贴",
+    "path": "贴贴.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "贴贴",
+      "en-US": "tietie"
+    },
+    "category": "可爱希",
+    "mark": {
+      "title": "被乱飞的屏幕吓出牛叫的希希",
+      "time": "07:34-07:35",
+      "url": "https://www.bilibili.com/video/BV1TA411K7Qp"
+    }
+  },
+    {
+    "name": "别撅我屁股了",
+    "path": "别撅我屁股了.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "别撅我屁股了",
+      "en-US": "Stop poking my ass"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "希希，以尻子玉为代价、学到了新知识。",
+      "time": "00:12-00:22",
+      "url": "https://www.bilibili.com/video/BV1g64y1Q7dK"
+    }
+  },
+    {
+    "name": "桌子HP-12",
+    "path": "桌子HP-12.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "桌子HP-12",
+      "en-US": "table's HP-12"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "【希亚娜/只狼/Euterpe】只希死亡集锦·第一弹",
+      "time": "02:18-02:21",
+      "url": "https://www.bilibili.com/video/BV1N54y1h7E5"
+    }
+  },
+    {
+    "name": "neeee——",
+    "path": "neeee——.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "neeee——",
+      "en-US": "neeee——"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "【希亚娜/只狼/Euterpe】只希死亡集锦·第一弹",
+      "time": "03:19-03:21",
+      "url": "https://www.bilibili.com/video/BV1N54y1h7E5"
+    }
+  },
+    {
+    "name": "大家也猜不到",
+    "path": "大家也猜不到.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "大家也猜不到",
+      "en-US": "you guys can't guess too"
+    },
+    "category": "可爱希",
+    "mark": {
+      "title": "应对全球变暖，牛牛勇担重任！冷气全开的冷笑话大会",
+      "time": "01:22-01:27",
+      "url": "https://www.bilibili.com/video/BV1QB4y1A7Bq"
+    }
+  },
+    {
+    "name": "蓝 脖 积 泥",
+    "path": "蓝 脖 积 泥.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "蓝 脖 积 泥",
+      "en-US": "lamborghini"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "应对全球变暖，牛牛勇担重任！冷气全开的冷笑话大会",
+      "time": "01:34-01:51",
+      "url": "https://www.bilibili.com/video/BV1QB4y1A7Bq"
+    }
+  },
+    {
+    "name": "巴 黎 鸥 来 哑",
+    "path": "巴 黎 鸥 来 哑.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "巴 黎 鸥 来 哑",
+      "en-US": "olanyaParis"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "应对全球变暖，牛牛勇担重任！冷气全开的冷笑话大会",
+      "time": "03:14-03:20",
+      "url": "https://www.bilibili.com/video/BV1QB4y1A7Bq"
+    }
+  },
+    {
+    "name": "西 米 露",
+    "path": "西 米 露.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "西 米 露",
+      "en-US": "sago pudding"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "应对全球变暖，牛牛勇担重任！冷气全开的冷笑话大会",
+      "time": "04:28-04:34",
+      "url": "https://www.bilibili.com/video/BV1QB4y1A7Bq"
+    }
+  },
+    {
+    "name": "月 之 茧（zhuó）",
+    "path": "月 之 茧（zhuó）.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "月 之 茧（zhuó）",
+      "en-US": "yuè zhī jiǎn(zhuó)"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "小梦魇，生得尖，认字认半边",
+      "time": "04:28-04:34",
+      "url": "https://www.bilibili.com/video/BV18X4y137Ay"
+    }
+  },
+    {
+    "name": "王 德 发",
+    "path": "王 德 发.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "王 德 发",
+      "en-US": "what the f**k?"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "可怜的牛牛被帆船玩弄于股掌之间",
+      "time": "01:03-01:07",
+      "url": "https://www.bilibili.com/video/BV1nX4y1P7AK"
+    }
+  },
+    {
+    "name": "莽莽莽",
+    "path": "莽莽莽.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "莽莽莽",
+      "en-US": "RushRushRush"
+    },
+    "category": "混沌希",
+    "mark": {
+      "title": "没脑子终究还是没脑子~ 【幽林怪谈搞笑集锦】",
+      "time": "00:23-00:26",
+      "url": "https://www.bilibili.com/video/BV1Qf4y1x7NY"
+    }
+  },
+    {
+    "name": "(⊙o⊙)",
+    "path": "(⊙o⊙).mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "(⊙o⊙)",
+      "en-US": "(⊙o⊙)"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "没脑子终究还是没脑子~ 【幽林怪谈搞笑集锦】",
+      "time": "00:29-00:31",
+      "url": "https://www.bilibili.com/video/BV1Qf4y1x7NY"
+    }
+  },
+    {
+    "name": "溜了溜了",
+    "path": "溜了溜了.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "溜了溜了",
+      "en-US": "RunRunRun"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "没脑子终究还是没脑子~ 【幽林怪谈搞笑集锦】",
+      "time": "01:07-01:09",
+      "url": "https://www.bilibili.com/video/BV1Qf4y1x7NY"
+    }
+  },
+    {
+    "name": "你别再冲锋了大哥",
+    "path": "你别再冲锋了大哥.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "你别再冲锋了大哥",
+      "en-US": "Will you please stop rushing,bro?"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "没脑子终究还是没脑子~ 【幽林怪谈搞笑集锦】",
+      "time": "01:40-01:43",
+      "url": "https://www.bilibili.com/video/BV1Qf4y1x7NY"
+    }
+  },
+    {
+    "name": "癞皮狗",
+    "path": "癞皮狗.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "癞皮狗",
+      "en-US": "you are a mange dog!"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "没脑子终究还是没脑子~ 【幽林怪谈搞笑集锦】",
+      "time": "02:14-02:16",
+      "url": "https://www.bilibili.com/video/BV1Qf4y1x7NY"
+    }
+  },
+    {
+    "name": "嗝屁",
+    "path": "嗝屁.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "嗝屁",
+      "en-US": "krepieren"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "没脑子终究还是没脑子~ 【幽林怪谈搞笑集锦】",
+      "time": "02:55-02:56",
+      "url": "https://www.bilibili.com/video/BV1Qf4y1x7NY"
+    }
+  },
+    {
+    "name": "你听她笑的多开心",
+    "path": "你听她笑的多开心.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "你听她笑的多开心",
+      "en-US": "how happy you listen to her smile"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "没脑子终究还是没脑子~ 【幽林怪谈搞笑集锦】",
+      "time": "04:42-04:47",
+      "url": "https://www.bilibili.com/video/BV1Qf4y1x7NY"
+    }
+  },
+    {
+    "name": "噔噔噔噔噔噔",
+    "path": "噔噔噔噔噔噔.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "噔噔噔噔噔噔",
+      "en-US": "DengDengDengDengDengDeng"
+    },
+    "category": "希希日常",
+    "mark": {
+      "title": "希希你退吧 我们能赢",
+      "time": "00:59-01:01",
+      "url": "https://www.bilibili.com/video/BV1JB4y1u7CK"
+    }
+  },
+    {
+    "name": "战 场 逛 淘 宝",
+    "path": "战 场 逛 淘 宝.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "战 场 逛 淘 宝",
+      "en-US": "fight or go shopping?"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "希希你退吧 我们能赢",
+      "time": "03:34-03:58",
+      "url": "https://www.bilibili.com/video/BV1JB4y1u7CK"
+    }
+  },
+    {
+    "name": "牛牛的算术课堂",
+    "path": "牛牛的算术课堂.mp3",
+    "date": "2021-07-04",
+    "translate": {
+      "zh-CN": "牛牛的算术课堂",
+      "en-US": "Ciyana's Arithmetic class"
+    },
+    "category": "debu希",
+    "mark": {
+      "title": "希语言学习：从入门到变猪",
+      "time": "00:59-01:08",
+      "url": "https://www.bilibili.com/video/BV1HV411W77y"
+    }
+  },
   {
     "name": "为什么嘛~",
     "path": "为什么嘛~.mp3",
