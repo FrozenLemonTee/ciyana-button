@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fc976909ad1823d2358c0c7bf6fc5432.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fc976909ad1823d2358c0c7bf6fc5432.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/ts-loader/b9427d36d6ed659bcafee98aefb63153.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/ts-loader/b9427d36d6ed659bcafee98aefb63153.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3ae950082e417eceecec60935c780642.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3ae950082e417eceecec60935c780642.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9bbb66118aa177bace2b9464ed1aa9f7.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9bbb66118aa177bace2b9464ed1aa9f7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b67abf3dc906468152ccc692af31a1af.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b67abf3dc906468152ccc692af31a1af.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/be189751e792ae012aa5e20289efc0b2.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/be189751e792ae012aa5e20289efc0b2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting/translate/01_voices.json" beforeDir="false" afterPath="$PROJECT_DIR$/setting/translate/01_voices.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/voices" />
+    <property name="last_opened_file_path" value="$python_arbeit$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -155,7 +147,9 @@
       <workItem from="1624869279133" duration="12081000" />
       <workItem from="1624968067445" duration="18400000" />
       <workItem from="1625054167404" duration="18310000" />
-      <workItem from="1625299329803" duration="8031000" />
+      <workItem from="1625299329803" duration="8777000" />
+      <workItem from="1625451108920" duration="924000" />
+      <workItem from="1625473063600" duration="247000" />
     </task>
     <servers />
   </component>
