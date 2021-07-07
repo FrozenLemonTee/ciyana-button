@@ -2,7 +2,7 @@
   <transition name="fade" appear>
     <div class="footer">
       <div>
-        <div class="author" style="margin: 8px auto auto auto">
+        <div class="author" style="margin: 4px auto auto">
           <div>©2021</div>
           <template v-for="(item, index) in author" :key="index">
             <a style="margin-left: 5px" v-if="index > 0">&</a>
@@ -15,13 +15,16 @@
           </template>
         </div>
         <div class="info">
+          <div>A project from <a href="https://vbup-osc.github.io/vtuber-voice-button-collection/">VBUP Open Source Community</a></div>
           <div>powered by <a href="https://github.com/blacktunes/voices-button-cli" target="_blank">voices-button-cli</a>  |  hosted on <a href="https://pages.cloudflare.com/" target="_blank">Cloudflare Pages</a></div>
+          <div><img style="margin: 5px 5px 0 -2px" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/FrozenLemonTee/ciyana-button?style=social"><img style="margin: 5px 5px 0 -2px" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/FrozenLemonTee/ciyana-button?style=social"></div>
           <template v-for="(item, index) in info" :key="index">
             <div v-html="item"></div>
           </template>
         </div>
       </div>
       <div class="text-right">
+        <div><p></p></div>
         <div class="git">
           <IBtn
             class="btn"
