@@ -27,7 +27,7 @@
       "loop_2": "现在是分类循环模式",
       "loop_3": "现在是全部循环模式",
       "showInfoOn": "这个按钮可以切换成分类排序",
-      "showInfoOff": "这个按钮可以查看按钮的出处"
+      "showInfoOff": "这个按钮可以查看语音的出处"
     },
     "vtbbtn": "VTuber按钮合集",
     "voiceTotalTip": "当前语音量",
@@ -62,7 +62,7 @@
       "loop_2": "Now is Category Loop mode",
       "loop_3": "Now is All Loop mode",
       "showInfoOn": "This button can be switched to sort by category",
-      "showInfoOff": "This button allows you to see where the button came from"
+      "showInfoOff": "This button allows you to see where the voice came from"
     },
     "vtbbtn": "Vtuber button collection",
     "voiceTotalTip": "Current voice quantity",
