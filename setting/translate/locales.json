@@ -13,6 +13,7 @@
       "autoRandomTip": "随机连播开启中~",
       "loop": "洗脑循环",
       "loopTip": "洗脑循环开启中~",
+      "showInfo": "切换分类排序",
       "noplay": "当前没有播放哦~"
     },
     "readme": {
@@ -48,6 +49,7 @@
       "autoRandomTip": "Shuffle enabled",
       "loop": "Loop",
       "loopTip": "Loop",
+      "showInfo": "Change sort",
       "noplay": "Not Playing"
     },
     "readme": {
