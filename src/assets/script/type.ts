@@ -13,7 +13,11 @@ export enum EVENT {
   /**
    * 滚动到指定位置
    */
-  autoScroll = 'autoScroll'
+  autoScroll = 'autoScroll',
+  /**
+   * 控制栏正在播放点击
+   */
+  nameClick = 'nameClick'
 }
 
 /**
@@ -26,6 +30,11 @@ export enum INFO_I18N {
   fullName = 'info.fullName',
   vtbbtn = 'vtbbtn',
   voiceTotal = 'voiceTotal',
+  hideVoiceTotal = 'hideVoiceTotal',
+  newVoice = 'newVoice',
+  hideNewVoice = 'hideNewVoice',
+  lastDate = 'lastDate',
+  hideLastDate = 'hideLastDate',
   voiceTotalTip = 'voiceTotalTip',
   lang = 'lang'
 }
@@ -41,8 +50,29 @@ export enum ACTION_I18N {
   autoRandom = 'action.autoRandom',
   autoRandomTip = 'action.autoRandomTip',
   loop = 'action.loop',
-  loopTip = 'action.loopTip',
+  loopTip1 = 'action.loopTip_1',
+  loopTip2 = 'action.loopTip_2',
+  loopTip3 = 'action.loopTip_3',
+  showInfo = 'action.showInfo',
   noplay = 'action.noplay'
+}
+
+/**
+ * readme操作说明的I18N
+ */
+export enum README_I18N {
+  randomPlay = 'readme.randomPlay',
+  stop = 'readme.stop',
+  overlapOn = 'readme.overlapOn',
+  overlapOff = 'readme.overlapOff',
+  autoRandomOn = 'readme.autoRandomOn',
+  autoRandomOff = 'readme.autoRandomOff',
+  loop0 = 'readme.loop_0',
+  loop1 = 'readme.loop_1',
+  loop2 = 'readme.loop_2',
+  loop3 = 'readme.loop_3',
+  showInfoOn = 'readme.showInfoOn',
+  showInfoOff = 'readme.showInfoOff'
 }
 
 /**
@@ -77,6 +107,10 @@ export interface PlaySetting {
    * 是否开启详情显示
    */
   showInfo: boolean;
+  /**
+   * 是否显示隐藏
+   */
+  showHide: boolean;
 }
 
 /**
@@ -97,7 +131,13 @@ export interface SearchData {
   index: number;
 }
 
-export type Voices = VoicesCategory[] | VoicesOrigin[]
+export type Voices<K extends keyof VoicesType = 'a'> = VoicesType[K]
+
+interface VoicesType {
+  a: VoicesOrigin[] & VoicesCategory[];
+  o: VoicesOrigin[];
+  c: VoicesCategory[];
+}
 
 /**
  * 来源分类
@@ -111,14 +151,16 @@ export interface VoicesOrigin {
 /**
  * 语音分类
  */
-export interface VoicesCategory {
-  name: string;
-  translate: Translate;
+export type VoicesCategory = CategoryItem & {
   voiceList: VoicesItem[];
 }
 
 export interface CategoryItem {
   name: string;
+  /**
+   * 是否为隐藏
+   */
+  hide?: boolean;
   translate: Translate;
 }
 
@@ -144,6 +186,10 @@ export interface VoicesItem {
    */
   category: string;
   /**
+   * 是否为隐藏
+   */
+  hide?: boolean;
+  /**
    * 添加日期
    */
   date?: string;
@@ -163,7 +209,7 @@ export interface Mark {
    */
   time?: string;
   url?: string;
-};
+}
 
 export interface Translate {
   'zh-CN'?: string;

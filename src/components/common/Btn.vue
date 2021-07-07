@@ -1,6 +1,18 @@
 <template>
-  <div class="btn" :style="{ background: background }">
-    <a :href="url" target="_blank" :style="{ color: color }">{{ name }}</a>
+  <div class="btn" :style="{ background }" :class="{ disabled }">
+    <div
+      class="left"
+      :style="{
+        borderColor: `transparent transparent ${background} transparent`
+      }"
+    />
+    <div
+      class="right"
+      :style="{
+        borderColor: `transparent transparent ${background} transparent`
+      }"
+    />
+    <a :href="url" target="_blank" :style="{ color }">{{ name }}</a>
   </div>
 </template>
 
@@ -9,8 +21,18 @@ export default {
   props: {
     name: String,
     url: String,
-    color: String,
-    background: String
+    color: {
+      type: String,
+      default: null
+    },
+    background: {
+      type: String,
+      default: null
+    },
+    disabled: {
+      type: Boolean,
+      default: false
+    }
   }
 }
 </script>
@@ -21,37 +43,68 @@ a
   color $btn-text-color
   padding 5px 15px
 
+.disabled
+  background #ccc !important
+  cursor no-drop !important
+  a
+    pointer-events none
+    color #666 !important
+
+  &:hover
+    box-shadow none !important
+    a
+      animation none !important
+
+  .left
+    border-color transparent transparent #ccc transparent !important
+
+  .right
+    border-color transparent transparent #ccc transparent !important
+
 .btn
   display flex
   align-items center
   position relative
-  overflow hidden
   min-height 34px
+  margin 5px
   box-sizing border-box
   border-radius 18px
   background $main-color
-  box-shadow 0px 1px 5px 0px #ddd
   user-select none
   cursor pointer
-  transition box-shadow 0.25s
+
+  ears(direction, deg)
+    transform rotate(deg)
+    width 0
+    height 0
+    border-style solid
+    border-width 0 6px 8px 6px
+    border-color transparent transparent $main-color transparent
+    pointer-events none
+    position absolute
+
+    if (direction == 'left')
+      left 0
+
+    if (direction == 'right')
+      right 0
+
+    top -3px
+
+  .left
+    ears('left', -32deg)
+
+  .right
+    ears('right', 32deg)
 
   &:hover
-    background $hover-color
-    box-shadow 0px 2px 10px 0px $main-color
-
     a
       animation shake 3s linear infinite
 
 @media only screen and (max-width 600px)
   .btn:hover
-    background $main-color
-    box-shadow none
-
     a
       animation none
-
-  .btn:active
-    background $active-color
 
 @keyframes shake
   0%

@@ -9,12 +9,40 @@
       "fullName": ""
     }
   },
+
+  "readme": "<div style=\"text-align: center;\">和我一起，做梦吧~</div>",
   "header": {
     "icon": "💤",
     "youtube": "",
     "twitter": "https://twitter.com/_Ciyana",
     "bilibili": "https://space.bilibili.com/1926156228"
   },
+  "link": [
+      {
+        "name": "Hiiro按钮",
+        "url": "https://hiiro.club/",
+        "background": "#F5C1BB",
+        "color": "#ffffff"
+      },
+      {
+        "name": "白神遥按钮",
+        "url": "https://haruka.fun/",
+        "background": "#FFAEA6",
+        "color": "#ffffff"
+      },
+      {
+        "name": "七奈按钮",
+        "url": "https://kaguranana.moe/",
+        "background": "#c4afd0",
+        "color": "#ffffff"
+      },
+      {
+        "name": "锤子按钮",
+        "url": "https://kyouka.icu/",
+        "background": "#4fd6f8",
+        "color": "#ffffff"
+      }
+  ],
   "footer": {
     "author": [
       {

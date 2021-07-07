@@ -1,10 +1,18 @@
 <template>
-  <transition name="slider-down" appear>
+  <transition name="slide-down" appear>
     <div class="header">
       <transition name="logo" appear>
-        <div class="logo" ref="logo" @click="logoClick">{{ icon }}</div>
+        <div class="logo" ref="logo" @click="logoClick">
+          {{ icon }}
+        </div>
       </transition>
-      <div class="title">{{ t(INFO_I18N.title) }}</div>
+      <div
+        class="title"
+        :class="{ pointer: !playSetting.showHide && isShowPointer }"
+        @click="changeHide"
+      >
+        {{ t(INFO_I18N.title) }}
+      </div>
       <template v-for="(btn, index) in btnList" :key="index">
         <IBtn v-if="btn.url" :url="btn.url" :img="btn.img" />
       </template>
@@ -23,7 +31,7 @@
           />
         </svg>
       </div>
-      <Search class="search" />
+      <Search class="search" ref="search" />
       <div class="btn" :title="t(INFO_I18N.lang)" @click="changeLang">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -43,12 +51,17 @@
 </template>
 
 <script lang="ts">
-import { ref, inject, onMounted, Ref } from 'vue'
+import { ref, inject, onMounted, Ref, computed, nextTick } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { INFO_I18N, SearchData } from '@/assets/script/type'
+import { INFO_I18N, PlaySetting, SearchData, EVENT } from '@/assets/script/type'
 import IBtn from '@/components/common/IconBtn.vue'
-import Search from '@/components/Search.vue'
+import Search from '@/components/Search/Search.vue'
 import Setting from '@/../setting/setting.json'
+import { useRouter } from 'vue-router'
+import mitt from '@/assets/script/mitt'
+import youtubePng from '@/assets/image/youtube-fill.png'
+import twitterPng from '@/assets/image/twitter-fill.png'
+import bilibiliPng from '@/assets/image/bilibili-fill.png'
 
 const HEADER: {
   icon?: string;
@@ -57,7 +70,7 @@ const HEADER: {
   bilibili?: string;
 } = Setting['header'] || {}
 
-const onLogoClick = (logo) => {
+const onLogoClick = (logo: Ref<HTMLElement>) => {
   let isRestart = false
   const logoClick = () => {
     if (!logo.value) return
@@ -81,15 +94,15 @@ export default {
     const btnList = [
       {
         url: HEADER.youtube,
-        img: require('../assets/image/youtube-fill.png')
+        img: youtubePng
       },
       {
         url: HEADER.twitter,
-        img: require('../assets/image/twitter-fill.png')
+        img: twitterPng
       },
       {
         url: HEADER.bilibili,
-        img: require('../assets/image/bilibili-fill.png')
+        img: bilibiliPng
       }
     ]
 
@@ -102,7 +115,7 @@ export default {
     const searchData: SearchData = inject('searchData') as SearchData
 
     /**
-     * 现实隐藏/搜索并重置搜索
+     * 显示/隐藏搜索并重置搜索
      */
     const showSearch = () => {
       isShowSearch.value = !isShowSearch.value
@@ -131,11 +144,42 @@ export default {
       }
     }
 
+    const playSetting = inject('playSetting') as PlaySetting
+    const changeHide = () => {
+      if (!isShowPointer.value || playSetting.showHide) return
+      playSetting.showHide = true
+      if (!isShowSearch.value) {
+        searchData.value = ''
+        searchData.list.length = 0
+      }
+    }
+
+    const isShowPointer = computed(() => {
+      return Number(t(INFO_I18N.hideVoiceTotal)) > Number(t(INFO_I18N.voiceTotal))
+    })
+
+    const search = ref()
+    const router = useRouter()
+
     // 初次加载时获取localStorage的语言设定
     onMounted(() => {
       const lang = localStorage.getItem('lang')
       if (lang) locale.value = lang
       document.title = t(INFO_I18N.title)
+
+      router.isReady()
+        .then(() => {
+          if (router.currentRoute.value.query['k']) {
+            isShowSearch.value = true
+            searchData.value = router.currentRoute.value.query['k'] as string
+            (search.value as any).search()
+            nextTick(() => {
+              if (searchData.list.length > 0) {
+                mitt.emit(EVENT.autoScroll)
+              }
+            })
+          }
+        })
     })
 
     return {
@@ -144,8 +188,12 @@ export default {
       logo,
       logoClick,
       t,
-      changeLang,
       showSearch,
+      changeLang,
+      changeHide,
+      isShowPointer,
+      playSetting,
+      search,
       INFO_I18N
     }
   }
@@ -156,6 +204,9 @@ export default {
 .logo-enter-active
   animation logo 1s
   animation-delay 0.5s
+
+.pointer
+  cursor pointer
 
 .header
   z-index 5
@@ -237,4 +288,8 @@ export default {
     width 0px
     margin 0
     opacity 0
+
+@media (prefers-color-scheme dark)
+  .header
+    background linear-gradient(to right, $main-color-dark, $sub-color-dark), rgba(100, 100, 100, 0.8)
 </style>

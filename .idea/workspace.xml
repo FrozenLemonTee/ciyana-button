@@ -1,86 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2a2cb534-ed28-4688-a9a5-7050c170b5fa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectId" id="1pjGwZrKSXbARMuIPDI8pL77NPF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-    <ConfirmationsSetting value="1" id="添加" />
-  </component>
+  <component name="ProjectId" id="1uy5ErnX0f2XPNir9Se6zecYV9F" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ciyana-button@2.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/setting" />
     <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\node_modules\eslint" />
-    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
-    <property name="ts.external.directory.path" value="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\node_modules\typescript\lib" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button@2.0\ciyana-button\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices" />
-      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\src\assets\script" />
-      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\test" />
-      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices" />
-      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public" />
-      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\public\voices\img" />
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button@2.0\ciyana-button\setting" />
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button@2.0\ciyana-button" />
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button@2.0\ciyana-button\src\assets\script" />
+      <recent name="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button@2.0\ciyana-button\public" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.serve">
+    <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -93,65 +70,14 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="98122d81-a1b4-4183-bfc0-3efd70353c90" name="默认的" comment="" />
-      <created>1615689325033</created>
+      <changelist id="2a2cb534-ed28-4688-a9a5-7050c170b5fa" name="Default Changelist" comment="" />
+      <created>1625624880074</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615689325033</updated>
-      <workItem from="1615689329181" duration="2380000" />
-      <workItem from="1615691846683" duration="59000" />
-      <workItem from="1615691917390" duration="72000" />
-      <workItem from="1615692001341" duration="118000" />
-      <workItem from="1615692130755" duration="161000" />
-      <workItem from="1615692315371" duration="1297000" />
-      <workItem from="1615693628976" duration="963000" />
-      <workItem from="1615696763856" duration="617000" />
-      <workItem from="1615697546062" duration="222000" />
-      <workItem from="1615698083965" duration="69000" />
-      <workItem from="1615702976070" duration="94000" />
-      <workItem from="1615703127954" duration="675000" />
-      <workItem from="1615704065173" duration="1445000" />
-      <workItem from="1615707346396" duration="13977000" />
-      <workItem from="1615766950989" duration="11660000" />
-      <workItem from="1615793255282" duration="24000" />
-      <workItem from="1615806835918" duration="5199000" />
-      <workItem from="1615878653342" duration="2127000" />
-      <workItem from="1615892071101" duration="10890000" />
-      <workItem from="1615947250177" duration="4446000" />
-      <workItem from="1615979066183" duration="25443000" />
-      <workItem from="1616112472876" duration="16000" />
-      <workItem from="1616135307257" duration="5386000" />
-      <workItem from="1616154761098" duration="17942000" />
-      <workItem from="1616286980818" duration="11000" />
-      <workItem from="1616421225131" duration="622000" />
-      <workItem from="1616545519003" duration="197000" />
-      <workItem from="1616554506831" duration="7819000" />
-      <workItem from="1616589729030" duration="10225000" />
-      <workItem from="1616683768139" duration="833000" />
-      <workItem from="1616724408539" duration="5503000" />
-      <workItem from="1616742596111" duration="12000" />
-      <workItem from="1616830139691" duration="1861000" />
-      <workItem from="1616834894447" duration="1217000" />
-      <workItem from="1616891229043" duration="853000" />
-      <workItem from="1616897246647" duration="29000" />
-      <workItem from="1617888422660" duration="374000" />
-      <workItem from="1617964747091" duration="621000" />
-      <workItem from="1618042478032" duration="212000" />
-      <workItem from="1624718647024" duration="2963000" />
-      <workItem from="1624864426638" duration="2746000" />
-      <workItem from="1624869279133" duration="12081000" />
-      <workItem from="1624968067445" duration="18400000" />
-      <workItem from="1625054167404" duration="18310000" />
-      <workItem from="1625299329803" duration="8777000" />
-      <workItem from="1625451108920" duration="924000" />
-      <workItem from="1625473063600" duration="247000" />
-      <workItem from="1625533199877" duration="717000" />
-      <workItem from="1625616297506" duration="632000" />
+      <updated>1625624880074</updated>
+      <workItem from="1625624882117" duration="3274000" />
     </task>
     <servers />
   </component>

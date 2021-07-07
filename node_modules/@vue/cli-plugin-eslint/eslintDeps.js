@@ -9,8 +9,8 @@ const DEPS_MAP = {
   },
   prettier: {
     '@vue/eslint-config-prettier': '^6.0.0',
-    'eslint-plugin-prettier': '^3.1.3',
-    prettier: '^1.19.1'
+    'eslint-plugin-prettier': '^3.3.1',
+    prettier: '^2.2.1'
   },
   standard: {
     '@vue/eslint-config-standard': '^5.1.2',
@@ -20,9 +20,9 @@ const DEPS_MAP = {
     'eslint-plugin-standard': '^4.0.0'
   },
   typescript: {
-    '@vue/eslint-config-typescript': '^5.0.2',
-    '@typescript-eslint/eslint-plugin': '^2.33.0',
-    '@typescript-eslint/parser': '^2.33.0'
+    '@vue/eslint-config-typescript': '^7.0.0',
+    '@typescript-eslint/eslint-plugin': '^4.18.0',
+    '@typescript-eslint/parser': '^4.18.0'
   }
 }
 
@@ -32,7 +32,7 @@ exports.getDeps = function (api, preset, rootOptions = {}) {
   const deps = Object.assign({}, DEPS_MAP.base, DEPS_MAP[preset])
 
   if (rootOptions.vueVersion === '3') {
-    Object.assign(deps, { 'eslint-plugin-vue': '^7.0.0-0' })
+    Object.assign(deps, { 'eslint-plugin-vue': '^7.0.0' })
   }
 
   if (api.hasPlugin('typescript')) {

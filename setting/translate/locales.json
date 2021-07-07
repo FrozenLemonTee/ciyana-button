@@ -15,6 +15,20 @@
       "loopTip": "洗脑循环开启中~",
       "noplay": "当前没有播放哦~"
     },
+    "readme": {
+      "randomPlay": "这个按钮可以随机播放",
+      "stop": "这个按钮可以停止播放",
+      "overlapOn": "现在可以同时播放多个按钮了",
+      "overlapOff": "这个按钮可以开启重叠播放",
+      "autoRandomOn": "现在播放结束会随机播放下一个按钮了",
+      "autoRandomOff": "这个按钮可以开启随机连播",
+      "loop_0": "这个按钮可以切换连续播放模式",
+      "loop_1": "现在是单曲循环模式",
+      "loop_2": "现在是分类循环模式",
+      "loop_3": "现在是全部循环模式",
+      "showInfoOn": "这个按钮可以切换成分类排序",
+      "showInfoOff": "这个按钮可以查看按钮的出处"
+    },
     "vtbbtn": "VTuber按钮合集",
     "voiceTotalTip": "当前语音量",
     "lang": "Change to English",

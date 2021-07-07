@@ -5,8 +5,13 @@
         <div class="author" style="margin: 8px auto auto auto">
           <div>©2021</div>
           <template v-for="(item, index) in author" :key="index">
-            <a v-if="index > 0">&</a>
-            <a :href="item.url || null" target="_blank">{{ item.name }}</a>
+            <a style="margin-left: 5px" v-if="index > 0">&</a>
+            <a
+              style="margin-left: 5px"
+              :href="item.url"
+              target="_blank"
+              >{{ item.name }}</a
+            >
           </template>
         </div>
         <div class="info">
@@ -21,7 +26,7 @@
           <IBtn
             class="btn"
             :url="githubUrl"
-            :img="require('../assets/image/github-fill.png')"
+            :img="githubPng"
           />
           <a :href="githubUrl" target="_blank">{{ t(INFO_I18N.toGithub) }}</a>
         </div>
@@ -37,6 +42,7 @@ import { useI18n } from 'vue-i18n'
 import { INFO_I18N } from '@/assets/script/type'
 import IBtn from '@/components/common/IconBtn.vue'
 import Setting from '@/../setting/setting.json'
+import githubPng from '@/assets/image/github-fill.png'
 
 const FOOTER: {
   author?: {
@@ -59,7 +65,8 @@ export default {
       t,
       author: FOOTER && FOOTER.author ? FOOTER.author : [],
       info: FOOTER && FOOTER.info ? FOOTER.info : [],
-      githubUrl: FOOTER && FOOTER.githubUrl ? FOOTER.githubUrl : null
+      githubUrl: FOOTER && FOOTER.githubUrl ? FOOTER.githubUrl : undefined,
+      githubPng
     }
   }
 }
@@ -109,4 +116,8 @@ export default {
 
         .btn
           order 10
+
+@media (prefers-color-scheme dark)
+  .footer
+    background-color #ddd
 </style>

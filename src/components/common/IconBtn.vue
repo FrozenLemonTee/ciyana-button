@@ -1,13 +1,16 @@
 <template>
   <a :href="url" class="icon" target="_blank">
-    <img draggable="false" :src="img" />
+    <img draggable="false" :src="img" alt=""/>
   </a>
 </template>
 
-<script>
+<script lang="ts">
 export default {
   props: {
-    url: String,
+    url: {
+      type: String,
+      default: null
+    },
     img: String
   }
 }
@@ -26,7 +29,7 @@ export default {
     padding 10%
 
   &:hover
-    box-shadow 0px 0px 10px 0px $sub-color
+    box-shadow 0 0 10px 0 $sub-color
 
     img
       height 90%
