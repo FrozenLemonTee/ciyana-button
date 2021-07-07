@@ -50,6 +50,20 @@
       "loopTip": "Loop",
       "noplay": "Not Playing"
     },
+    "readme": {
+      "randomPlay": "This button can played randomly",
+      "stop": "This button can stop play",
+      "overlapOn": "Now you can play voice at the same time",
+      "overlapOff": "This button can enabled overlap",
+      "autoRandomOn": "Now will be played randomly at the end of play",
+      "autoRandomOff": "This button can enabled shuffle",
+      "loop_0": "This button can enabled loop",
+      "loop_1": "Now is Single Loop mode",
+      "loop_2": "Now is Category Loop mode",
+      "loop_3": "Now is All Loop mode",
+      "showInfoOn": "This button can be switched to sort by category",
+      "showInfoOff": "This button allows you to see where the button came from"
+    },
     "vtbbtn": "Vtuber button collection",
     "voiceTotalTip": "Current voice quantity",
     "lang": "切换至简体中文",

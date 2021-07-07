@@ -10,7 +10,7 @@
     }
   },
 
-  "readme": "<div style=\"text-align: center;\">和我一起，做梦吧~</div>",
+  "readme": "</div><div style=\"text-align: center; font-weight:bold\">＂Dream, with me~＂</div><div style=\"text-align: center; font-weight:bold\">「和我一起，做梦吧~」",
   "header": {
     "icon": "💤",
     "youtube": "",
