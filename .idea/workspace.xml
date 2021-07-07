@@ -52,7 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$python_arbeit$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ciyana-button@2.0" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -63,7 +63,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="ts.external.directory.path" value="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button\ciyana-button\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -150,6 +150,8 @@
       <workItem from="1625299329803" duration="8777000" />
       <workItem from="1625451108920" duration="924000" />
       <workItem from="1625473063600" duration="247000" />
+      <workItem from="1625533199877" duration="717000" />
+      <workItem from="1625616297506" duration="632000" />
     </task>
     <servers />
   </component>
