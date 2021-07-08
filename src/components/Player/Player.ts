@@ -5,9 +5,11 @@ import { getCategory, getRandomInt } from '@/assets/script/utils'
 import { ComputedRef, inject, reactive, ref, Ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
+import { gtag } from '@/assets/script/analytics/gtag'
 
 const MEDIA = Setting['mediaSession']
 const CDN = Setting['CDN']
+const GA_ID = Setting['GA_ID']
 
 const useSearch = (btnList: { [name: string]: any }) => {
   const router = useRouter()
@@ -116,6 +118,15 @@ const createPlayer = (btnList: { [name: string]: any }) => {
    * @param voice 语音对象
    */
   const play = (voice: VoicesItem) => {
+    if (process.env.NODE_ENV === 'production' && GA_ID) {
+      /* eslint-disable @typescript-eslint/camelcase */
+      gtag('event', '播放语音', {
+        event_category: voice.category,
+        event_label: voice.name,
+        value: 1
+      })
+      /* eslint-enable */
+    }
     // 可在此处增加播放统计相关代码
     if (!playSetting.overlap) {
       if (playerList.has('once')) (playerList.get('once') as Player).audio.pause()
