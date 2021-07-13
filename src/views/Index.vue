@@ -16,9 +16,8 @@
           <Btn
             class="btn"
             :name="t(INFO_I18N.vtbbtn)"
-            url="https://vtbbtn.org/"
-            background="rgb(100, 181, 246)"
-            disabled
+            url="https://vbup-osc.github.io/vtuber-voice-button-collection/"
+            background="rgb(255，255，255)"
           />
           <template v-for="item in friendlyLinkList" :key="item.name">
             <Btn
