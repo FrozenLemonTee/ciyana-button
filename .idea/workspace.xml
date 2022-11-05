@@ -6,7 +6,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a2cb534-ed28-4688-a9a5-7050c170b5fa" name="Default Changelist" comment="添加&amp;调整友链20221105" />
+    <list default="true" id="2a2cb534-ed28-4688-a9a5-7050c170b5fa" name="Default Changelist" comment="添加&amp;调整友链20221105">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +130,7 @@
       <workItem from="1633089825213" duration="1062000" />
       <workItem from="1635257140849" duration="11000" />
       <workItem from="1667549457324" duration="1046000" />
-      <workItem from="1667606697744" duration="5219000" />
+      <workItem from="1667606697744" duration="5522000" />
     </task>
     <task id="LOCAL-00001" summary="调整README.md样式20221104">
       <created>1667549884067</created>
@@ -144,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667649925466</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加&amp;调整友链20221105">
+      <created>1667650093842</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667650093842</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
