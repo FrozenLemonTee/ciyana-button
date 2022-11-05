@@ -26,13 +26,13 @@
       },
       {
         "name": "白神遥",
-        "url": "https://haruka.fun/",
+        "url": "https://haruka.cmyr.ltd/",
         "background": "#FFAEA6",
         "color": "#ffffff"
       },
       {
         "name": "神乐七奈",
-        "url": "https://kaguranana.moe/",
+        "url": "https://kaguranana-button-blacktunes.vercel.app/",
         "background": "#c4afd0",
         "color": "#ffffff"
       },
@@ -40,6 +40,18 @@
         "name": "京华",
         "url": "https://kyouka.icu/",
         "background": "#4fd6f8",
+        "color": "#ffffff"
+      },
+      {
+        "name": "彼岸霜滢",
+        "url": "https://eliro.top/",
+        "background": "#bfb8ff",
+        "color": "#ffffff"
+      },
+      {
+        "name": "虚研社",
+        "url": "https://xysbtn.xiaoblogs.cn/",
+        "background": "#cd3951",
         "color": "#ffffff"
       }
   ],

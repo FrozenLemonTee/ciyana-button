@@ -63,13 +63,17 @@
 ### 友情链接
 - [Vtuber按钮合集](https://vtbbtn.org/)
 - [猫猫按钮](https://hiiro.club/)（Hiiro）
-- [豹按钮](https://haruka.fun/)（白神遥）
-- [七奈按钮](https://kaguranana.moe/)（神乐七奈）
+- [豹按钮](https://haruka.cmyr.ltd/)（白神遥）
+- [七奈按钮](https://kaguranana-button-blacktunes.vercel.app/)（神乐七奈）
 - [京华破防站](https://kyouka.icu/)（京华 from Overidea）
+- [Eliro按钮](https://eliro.top/)（彼岸霜滢）
+- [虚研社按钮](https://eliro.top/)
 
 ### 更新日志
 <details>
     <summary>点此展开</summary>
+    - 2022/11/05
+    <br>添加「Eliro按钮」、「虚研社按钮」友情链接<br> 
     - 2021/07/07
     <br>网页样式更新<br>    
     - 2021/07/04

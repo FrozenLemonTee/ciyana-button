@@ -6,10 +6,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a2cb534-ed28-4688-a9a5-7050c170b5fa" name="Default Changelist" comment="">
+    <list default="true" id="2a2cb534-ed28-4688-a9a5-7050c170b5fa" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/287c609a7299ef3a7ee81100752c5cd8.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/287c609a7299ef3a7ee81100752c5cd8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/setting.json" beforeDir="false" afterPath="$PROJECT_DIR$/setting/setting.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -77,6 +78,11 @@
     </key>
   </component>
   <component name="RunManager" selected="npm.serve">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -125,11 +131,36 @@
       <workItem from="1626658099427" duration="19000" />
       <workItem from="1633089825213" duration="1062000" />
       <workItem from="1635257140849" duration="11000" />
-      <workItem from="1667549457324" duration="356000" />
+      <workItem from="1667549457324" duration="1046000" />
+      <workItem from="1667606697744" duration="4852000" />
     </task>
+    <task id="LOCAL-00001" summary="调整README.md样式20221104">
+      <created>1667549884067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667549884067</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="调整README.md样式20221104" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整README.md样式20221104" />
   </component>
 </project>
