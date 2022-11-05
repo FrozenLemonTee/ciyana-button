@@ -20,36 +20,60 @@
   "link": [
       {
         "name": "Hiiro",
+        "translate": {
+          "zh-CN": "Hiiro",
+          "en-US": "Hiiro"
+        },
         "url": "https://hiiro.club/",
         "background": "#F5C1BB",
         "color": "#ffffff"
       },
       {
         "name": "白神遥",
+        "translate": {
+          "zh-CN": "白神遥",
+          "en-US": "Shirakami Haruka"
+        },
         "url": "https://haruka.cmyr.ltd/",
         "background": "#FFAEA6",
         "color": "#ffffff"
       },
       {
         "name": "神乐七奈",
+        "translate": {
+          "zh-CN": "神乐七奈",
+          "en-US": "Nana Kaguraaa"
+        },
         "url": "https://kaguranana-button-blacktunes.vercel.app/",
         "background": "#c4afd0",
         "color": "#ffffff"
       },
       {
         "name": "京华",
+        "translate": {
+          "zh-CN": "京华",
+          "en-US": "kyouka"
+        },
         "url": "https://kyouka.icu/",
         "background": "#4fd6f8",
         "color": "#ffffff"
       },
       {
         "name": "彼岸霜滢",
+        "translate": {
+          "zh-CN": "彼岸霜滢",
+          "en-US": "Eliro"
+        },
         "url": "https://eliro.top/",
         "background": "#bfb8ff",
         "color": "#ffffff"
       },
       {
         "name": "虚研社",
+        "translate": {
+          "zh-CN": "虚研社",
+          "en-US": "VDProject"
+        },
         "url": "https://xysbtn.xiaoblogs.cn/",
         "background": "#cd3951",
         "color": "#ffffff"
@@ -65,7 +89,10 @@
     "info": [
       ""
     ],
-    "githubUrl": "https://github.com/FrozenLemonTee/ciyana-button"
+    "githubUrl": "https://github.com/FrozenLemonTee/ciyana-button",
+    "belongTo": "https://github.com/vbup-osc",
+    "poweredBy": "https://github.com/blacktunes/voices-button-cli",
+    "hostedOn": "https://pages.cloudflare.com/"
   },
   "console": {
     "text": "Welcome To Ciyana-Button!",

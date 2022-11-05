@@ -15,8 +15,8 @@
           </template>
         </div>
         <div class="info">
-          <div>A project from <a href="https://github.com/vbup-osc">VBUP Open Source Community</a></div>
-          <div>powered by <a href="https://github.com/blacktunes/voices-button-cli" target="_blank">voices-button-cli</a>  |  hosted on <a href="https://pages.cloudflare.com/" target="_blank">Cloudflare Pages</a></div>
+          <div>{{ t(INFO_I18N.specialThanks1) }} <a href="https://github.com/vbup-osc">VBUP Open Source Community</a></div>
+          <div>{{ t(INFO_I18N.specialThanks2) }} <a href="https://github.com/blacktunes/voices-button-cli" target="_blank">voices-button-cli</a>  |  {{ t(INFO_I18N.specialThanks3) }} <a href="https://pages.cloudflare.com/" target="_blank">Cloudflare Pages</a></div>
           <div><img style="margin: 5px 5px 0 -2px" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/FrozenLemonTee/ciyana-button?style=social"><img style="margin: 5px 5px 0 -2px" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/FrozenLemonTee/ciyana-button?style=social"></div>
           <template v-for="(item, index) in info" :key="index">
             <div v-html="item"></div>
@@ -54,6 +54,9 @@ const FOOTER: {
   }[];
   info?: string[];
   githubUrl?: string;
+  belongTo?: string;
+  poweredBy?: string;
+  hostedOn?: string;
 } = Setting['footer']
 
 export default {
@@ -69,6 +72,9 @@ export default {
       author: FOOTER && FOOTER.author ? FOOTER.author : [],
       info: FOOTER && FOOTER.info ? FOOTER.info : [],
       githubUrl: FOOTER && FOOTER.githubUrl ? FOOTER.githubUrl : undefined,
+      belongTo: FOOTER && FOOTER.belongTo ? FOOTER.belongTo : undefined,
+      poweredBy: FOOTER && FOOTER.poweredBy ? FOOTER.poweredBy : undefined,
+      hostedOn: FOOTER && FOOTER.hostedOn ? FOOTER.hostedOn : undefined,
       githubPng
     }
   }

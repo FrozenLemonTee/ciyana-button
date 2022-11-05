@@ -22,7 +22,7 @@
           <template v-for="item in friendlyLinkList" :key="item.name">
             <Btn
               class="btn"
-              :name="item.name"
+              :name=item.translate[locale]
               :url="item.url"
               :color="item.color"
               :background="item.background"
@@ -76,7 +76,7 @@ export default {
     Btn
   },
   setup() {
-    const { t } = useI18n()
+    const { t, locale } = useI18n()
     const playSetting = inject('playSetting') as PlaySetting
 
     const voice = ref() as Ref<HTMLElement>
@@ -93,6 +93,7 @@ export default {
 
     return {
       t,
+      locale,
       friendlyLinkList: LINK,
       voice,
       total,

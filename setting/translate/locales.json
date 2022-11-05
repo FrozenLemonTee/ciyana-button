@@ -2,7 +2,10 @@
   "zh-CN": {
     "info": {
       "toGithub": "请在Github参与翻译、增补音频或提出建议",
-      "notOfficial": "本站为爱好者项目，和官方没有关联"
+      "notOfficial": "本站为爱好者项目，和官方没有关联",
+      "specialThanks1": "项目所属于",
+      "specialThanks2": "生成于",
+      "specialThanks3": "托管于"
     },
     "action": {
       "randomplay": "帮我选一个",
@@ -31,14 +34,17 @@
       "showInfoOff": "这个按钮可以查看语音的出处"
     },
     "vtbbtn": "VTuber按钮合集",
-    "voiceTotalTip": "当前语音量",
+    "voiceTotalTip": "当前音声按钮数量",
     "lang": "Change to English",
     "unknown": "不太清楚出自哪"
   },
   "en-US": {
     "info": {
       "toGithub": "Please participate in the translation, audio supplement or suggestions in GitHub",
-      "notOfficial": "This site is NOT a official creation"
+      "notOfficial": "This site is NOT a official creation",
+      "specialThanks1": "A project from",
+      "specialThanks2": "powered by",
+      "specialThanks3": "hosted on"
     },
     "action": {
       "randomplay": "Can you choose one for me nya?",
@@ -67,7 +73,7 @@
       "showInfoOff": "This button allows you to see where the voice came from"
     },
     "vtbbtn": "Vtuber button collection",
-    "voiceTotalTip": "Current voice quantity",
+    "voiceTotalTip": "Current number of voice buttons",
     "lang": "切换至简体中文",
     "unknown": "Unknown"
   }

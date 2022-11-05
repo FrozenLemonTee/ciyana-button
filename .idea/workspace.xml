@@ -7,7 +7,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a2cb534-ed28-4688-a9a5-7050c170b5fa" name="Default Changelist" comment="添加&amp;调整友链20221105">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3100a4a1e562c761bafe5dae369edc17.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3100a4a1e562c761bafe5dae369edc17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6a78fe33ceb03f966b398d6e433f41fa.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6a78fe33ceb03f966b398d6e433f41fa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/ts-loader/0ed9e34a3c7eb683c5446e2b67745e74.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/ts-loader/0ed9e34a3c7eb683c5446e2b67745e74.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/ts-loader/45869e78027815672d44d8b49d3e582d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/ts-loader/45869e78027815672d44d8b49d3e582d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/ts-loader/a97e52081e13c3080b83d0559bf3aea6.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/ts-loader/a97e52081e13c3080b83d0559bf3aea6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/140d8b0da29ddaca2aed741888ef9349.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/140d8b0da29ddaca2aed741888ef9349.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/287c609a7299ef3a7ee81100752c5cd8.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/287c609a7299ef3a7ee81100752c5cd8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2e7577c03405eaba2a52e47065bdd3e3.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2e7577c03405eaba2a52e47065bdd3e3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/32112b3a5cfe52c3f74ddf3326e38f78.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/32112b3a5cfe52c3f74ddf3326e38f78.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3f927b76dc8eb79eec2e87b0561b9eb0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3f927b76dc8eb79eec2e87b0561b9eb0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/45c9f84ceff3d111d78d5470d071c170.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/45c9f84ceff3d111d78d5470d071c170.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5707af2fec86eb9bbb65c47850d3c10f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5707af2fec86eb9bbb65c47850d3c10f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6f80347ea22dc66466c5be21fef03b79.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6f80347ea22dc66466c5be21fef03b79.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/setting.json" beforeDir="false" afterPath="$PROJECT_DIR$/setting/setting.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting/translate/locales.json" beforeDir="false" afterPath="$PROJECT_DIR$/setting/translate/locales.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/script/type.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/script/type.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Footer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +82,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="D:\FrozenLemonTee\Arbeit\WebProject\ciyana-button@2.0\ciyana-button\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -130,7 +149,7 @@
       <workItem from="1633089825213" duration="1062000" />
       <workItem from="1635257140849" duration="11000" />
       <workItem from="1667549457324" duration="1046000" />
-      <workItem from="1667606697744" duration="5522000" />
+      <workItem from="1667606697744" duration="20913000" />
     </task>
     <task id="LOCAL-00001" summary="调整README.md样式20221104">
       <created>1667549884067</created>
@@ -153,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667650093842</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加&amp;调整友链20221105">
+      <created>1667650248929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667650248929</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -27,6 +27,9 @@ export enum INFO_I18N {
   title = 'info.title',
   toGithub = 'info.toGithub',
   notOfficial = 'info.notOfficial',
+  specialThanks1 = 'info.specialThanks1',
+  specialThanks2 = 'info.specialThanks2',
+  specialThanks3 = 'info.specialThanks3',
   fullName = 'info.fullName',
   vtbbtn = 'vtbbtn',
   voiceTotal = 'voiceTotal',
@@ -232,6 +235,7 @@ export interface Player {
 
 export interface FriendlyLink {
   name: string;
+  translate: Translate;
   url: string;
   background?: string;
   color?: string;
