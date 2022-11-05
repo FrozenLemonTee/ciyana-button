@@ -61,7 +61,7 @@
 - 所用模板为[Hiiro按钮](https://github.com/blacktunes/hiiro-button)
 
 ### 友情链接
-- [Vtuber按钮合集](https://vtbbtn.org/)
+- [Vtuber按钮合集](https://vbup-osc.github.io/vtuber-voice-button-collection/)
 - [猫猫按钮](https://hiiro.club/)（Hiiro）
 - [豹按钮](https://haruka.cmyr.ltd/)（白神遥）
 - [七奈按钮](https://kaguranana-button-blacktunes.vercel.app/)（神乐七奈）
