@@ -67,7 +67,7 @@
 - [七奈按钮](https://kaguranana-button-blacktunes.vercel.app/)（神乐七奈）
 - [京华破防站](https://kyouka.icu/)（京华 from Overidea）
 - [Eliro按钮](https://eliro.top/)（彼岸霜滢）
-- [虚研社按钮](https://xysbtn.xiaoblogs.cn/)
+- [虚研社按钮](https://voice.xuyanshe.club/)
 
 ### 更新日志
 <details>
